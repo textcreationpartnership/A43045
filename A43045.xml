@@ -1,0 +1,735 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ministers office, the infants inheritance By James Harwood, B.D.</title>
+            <author>Harwood, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43045</idno>
+            <idno type="STC">Wing H1099</idno>
+            <idno type="STC">ESTC R221283</idno>
+            <idno type="EEBO-CITATION">99832615</idno>
+            <idno type="PROQUEST">99832615</idno>
+            <idno type="VID">37089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37089)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2147:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ministers office, the infants inheritance By James Harwood, B.D.</title>
+                  <author>Harwood, James.</author>
+               </titleStmt>
+               <extent>106, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.W. for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf contains errata and an advertisement.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Children --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37089:1" rendition="simple:additions"/>
+            <p>THE MINISTERS Office, THE INFANTS Inheritance.</p>
+            <p>By JAMES HARWOOD, B. D.</p>
+            <q>
+               <bibl>
+                  <hi>Bulling. adverſ. Anabapt.</hi>
+               </bibl>
+               <p>Cum id quod majus eſt Infantes habe<g ref="char:EOLhyphen"/>ant, rem ſcilicet ſignatam, gratiam Dei, &amp; remiſſionem peccatorum; Quis illis id quod minus eſt, Signum, Aquam, videlicet, denegabit.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> for the Author. 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37089:2"/>
+            <pb facs="tcp:37089:2"/>
+            <head>To the Right Honourable, THOMAS, Earl of SOUTHAMPTON, Baron of <hi>Titchfield.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THat <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of favour which I have received from you, bindes me in a ſtrong obligation to return a thankful acknowledgement. Some in theſe ſad times have voted Chari<g ref="char:EOLhyphen"/>ty an Heretick; a Sect whoſe Faith is in the <hi>full,</hi> their Charity in the <hi>wayne:</hi> it is their belief they are for Heaven, their works ſay, they are for Hell; theſe call them<g ref="char:EOLhyphen"/>ſelves young Saints, but are old Devils; they profeſs much, practiſe nothing; full of ſcience, but make no conſcience of their wayes: theſe have a Buſh at the door, no
+<pb facs="tcp:37089:3"/>Wine within. A generation of Vipers who cry up Chriſt, and Crucifie his Members.</p>
+            <p>My Lord, here you have in full view theſe Arch Hereticks, enemies to young and old; all the young Infants in the Land, and all the old Miniſters of the Goſpel. We at this time in compariſion, ane as few as <hi>Gi<g ref="char:EOLhyphen"/>deons Lappers;</hi> yet with thoſe few ſound<g ref="char:EOLhyphen"/>ing Trumpets, the Lord, I truſt, will throw down the Walls of <hi>Jerico</hi> to the ground. Our Church much reſembles the ſweet waters of <hi>Hypanis,</hi> through which a Well of incredible bitterneſs runs; that as <hi>Heroditus</hi> and <hi>Solinus</hi> do affirm, none of thoſe ſweet waters admit of any of the bit<g ref="char:EOLhyphen"/>ter waters to lodge within their ſource. Here we live together as in the Ark, clean and unclean, incorrigible Hereticks and de<g ref="char:EOLhyphen"/>vout Conformiſts; yet no hereticall briniſh waters do we ſuffer to intermix with the waters that iſſue out under the threſhold of the Temple.</p>
+            <p>
+               <hi>Phideas</hi> his Picture was ſo made, that it all appeared in every part of <hi>Minerva's</hi> Im ge; but the Picture of Hereſie, God of his mercy hath kept from appearing in the face, or dwelling in the tongue <hi>of us ſo much deſpiſed Divines.</hi> There is yet a
+<pb facs="tcp:37089:3"/>Sibboleth, Shiboleth, by which your Honour may diſcover who is the Gileadite, who the Ephraimite; who are the Sons of God, who are of their Father the Devil.</p>
+            <p>My Lord, it is no ſmall comfort to us, <hi>The Seers</hi> of <hi>Iſrael,</hi> to behold ſuch tall Ce<g ref="char:EOLhyphen"/>dars as your Honour, ſtanding upright in this our <hi>Lebanon;</hi> who for all the ſtorms of Schiſmes and Hereſies hold faſt to the Faith of Chriſt Crucified, to the Doctrine of his Apoſtles, to the practice of the Primi<g ref="char:EOLhyphen"/>tive Church. It's well known how you ap<g ref="char:EOLhyphen"/>prove of the <hi>Miniſterial Office</hi> as the higheſt calling, as alſo <hi>Infants Baptiſme;</hi> and yet in theſe latter dayes, perillous men are ſtart up, who debar yong Children from the Font, and ſhut the Church doors upon us called to officiate; their malice reaches from the Font to the Pulpit, from the Pul<g ref="char:EOLhyphen"/>pit to our Perſons. Their Germane Maſſa<g ref="char:EOLhyphen"/>cre makes us fear a ſecond Pariſian Mat<g ref="char:EOLhyphen"/>tens, or elſe the Cicilian Evening-Song; where they predominate they are moſt bloo<g ref="char:EOLhyphen"/>dy, none talk more, and leſs reaſon; they are ever queſtioning, but never ſatisfied. And thus I have taken to task <hi>unreaſonable men,</hi> whom, though we inform, they will never reform. The Sun-beams makes clay
+<pb facs="tcp:37089:4"/>the harder, and the Beams of Goſpel Ad<g ref="char:EOLhyphen"/>monitions makes theſe more obdurate; a juſt judgement for their Capital crime: their ſin was againſt the <hi>Head,</hi> and God gives them over to be headſtrong Hereticks.</p>
+            <p>And now my Noble Lord, ſince I have to do with ſuch ſons of <hi>Belial,</hi> and ſo ill-opi<g ref="char:EOLhyphen"/>niated, I crave the ſhrowding my <hi>Manuel</hi> under the benigne ſhrine of your protection; your gracious compliance ſhall oblige me to pray for your health here, and happineſs in heaven, which is the Chriſtian engagement, My Lord, of</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours moſt humble<lb/> ſervant in the Lord,</hi>
+                  <lb/> James Harwood.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="7" facs="tcp:37089:4"/>
+            <head>THE Miniſters Office, <hi>The Infants Inheritance.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matthew 28.19.</hi>
+                  </bibl>
+                  <p>Go ye therefore and teach all Nations, baptizing them in the Name of the Father, Son, and Holy Ghoſt.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He occaſion of theſe words lieth thus: Our Chriſt who was at<g ref="char:EOLhyphen"/>tached, arraigned, con<g ref="char:EOLhyphen"/>demned, crucified, and now is riſen from the dead, appears to <hi>Mary Magdalen,</hi> and the other <hi>Mary,</hi> verſe 9.</p>
+            <pb n="8" facs="tcp:37089:5"/>
+            <p> Chriſt giveth the woman a gra<g ref="char:EOLhyphen"/>cious ſalute, <hi>An all hail;</hi> and the wo<g ref="char:EOLhyphen"/>man again do him worſhip.</p>
+            <p>
+               <hi>O! A word of Chriſt firſt to us is able to make us fall down at his feet and worſhip him.</hi>
+            </p>
+            <p>
+               <hi>O! Chriſt cometh to us</hi> via gratiae, <hi>or we can give him meeting</hi> via Ec<g ref="char:EOLhyphen"/>cleſiae.</p>
+            <p>But it ſeems the two good old women fall a trembling; but ſaith our Saviour, <hi>Be not afraid.</hi>
+            </p>
+            <p>He would have them fear him, but not be afraid of him; fear him as the Childe the Father, not be afraid of him like Malefactors of the Judge. Nay, they have juſt cauſe to rejoyce, and again I ſay to rejoyce; for they have foud him whom they had loſt, they have found him whom their ſoul loves, <hi>even the Lord Jeſus, God bleſſed for ever. Amen.</hi>
+            </p>
+            <p>Theſe are his ſervants, and he ſets
+<pb n="9" facs="tcp:37089:5"/>theſe to work, <hi>verſe</hi> 10. The two <hi>Maries</hi> muſt go tell the eleven, nay more ſaith Chriſt, <hi>Go and tell my Brethren.</hi>
+            </p>
+            <p>
+               <hi>Brethren?</hi> But ſuch Brothers as <hi>Joſephs,</hi> who had ſold him, <hi>ſo did ſome of them;</hi> at beſt left him, <hi>ſo did moſt of them,</hi> the prime of them for<g ref="char:EOLhyphen"/>ſwearing him, <hi>ſo did Peter.</hi>
+            </p>
+            <p>And yet he calls them Brethren, <hi>Go tell Brethren, and bid them go into Galilee, and there they ſhall ſee me; me,</hi> lately left in the grave, now <hi>the Lord of Life; me,</hi> and my ſide which the Jews wounded; <hi>me,</hi> and my head which Jews crowned with thorns; <hi>me,</hi> to whom <hi>all pow<g ref="char:EOLhyphen"/>er is given in heaven and in earth.</hi>
+            </p>
+            <p>But as the women, ſo the eleven, they are now come, they come whither Chriſt did command, into <hi>Galilee,</hi> unto the Mountain.</p>
+            <p>Yea, as the women, ſo the ele<g ref="char:EOLhyphen"/>ven, they worſhip him; but the
+<pb n="10" facs="tcp:37089:6"/>women begin this divine worſhip, the Apoſtles are onely their <hi>ſeconds.</hi> They at the <hi>Grave,</hi> Chriſt newly come out of the grave; theſe Apo<g ref="char:EOLhyphen"/>ſtles not, till the two women in<g ref="char:EOLhyphen"/>ſtructed them.</p>
+            <p>And thus as our firſt Mother <hi>Eve</hi> by ſin threw down the firſt <hi>Adam;</hi> ſo now, theſe two women throw themſelves down at the feet of the ſecond <hi>Adam;</hi> as if not onely wil<g ref="char:EOLhyphen"/>ling to bewail <hi>Eves evil and fall,</hi> but alſo, as a woman firſt wronged mankinde, ſo theſe the ſame Sex, firſt deſire to do ſervice to mans Meſſias.</p>
+            <p>Theſe firſt after the Reſurrection met with Jeſus, and Jeſus ſends them to tell his Diſciples his Apo<g ref="char:EOLhyphen"/>ſtles.</p>
+            <p>They are met, <hi>verſe</hi> 11. now the Apoſtles ſee him; they worſhip him, even that Jeſus who was <hi>deli<g ref="char:EOLhyphen"/>vered up to death for us all,</hi> Rom 8.</p>
+            <pb n="11" facs="tcp:37089:6"/>
+            <p> Yea, this is he hath overcome him who hath brought to the ground all our Anceſtours; <hi>Death, Death:</hi> as ſath the Apoſtle, He hath <hi>ſwallowed up death in victory,</hi> and therefore that ſacred Chriſt<g ref="char:EOLhyphen"/>tide carrol is made in his praiſe, 1 Cor. 15.55. <hi>O death, where is thy ſting? O hell, where is thy victory?</hi>
+            </p>
+            <p>Ride on O Lord with thine Ho<g ref="char:EOLhyphen"/>nor full of Majeſty and Power; thou who guideſt the Heavens, and go<g ref="char:EOLhyphen"/>verneſt the Earth; thou art <hi>now</hi> met with thy ſervants the Apoſtles; and it is <hi>now</hi> that thou haſt iſſued our a Warrant for them to execute: The contents of Chriſt his Warrant is my Text, and my Text is this.</p>
+            <p>
+               <hi>Go ye therefore and teach all Nati<g ref="char:EOLhyphen"/>ons, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghoſt.</hi>
+            </p>
+            <p>In which words take notice of two parts; the Apoſtles Miſſion and Commiſſion.</p>
+            <pb n="12" facs="tcp:37089:7"/>
+            <p> The Miſſion, <hi>Go ye therefore.</hi>
+            </p>
+            <p>The Commiſſion, <hi>And teach all Nations.</hi>
+            </p>
+            <p>In the Miſſion we have two in full view: Here is
+<list>
+                  <item>1. <hi>Perſona mittens incluſivè.</hi>
+                  </item>
+                  <item>2. <hi>Perſonae miſſae expreſſivè.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Perſon ſending is <hi>Chriſt Ie<g ref="char:EOLhyphen"/>ſus,</hi> implied, though not expreſt.</p>
+            <p>The Perſons ſent are <hi>ye.</hi> In this <hi>ye</hi>
+            </p>
+            <list>
+               <item>The <hi>Ite</hi> are conſiderable.</item>
+               <item>The <hi>Ergo</hi> are conſiderable.</item>
+               <item>The <hi>Ite</hi> involves the Journey.</item>
+               <item>The <hi>Ergo</hi> the cauſe of the Jour<g ref="char:EOLhyphen"/>ney.</item>
+               <item>The <hi>Ite,</hi> Go.</item>
+               <item>The <hi>Ergo,</hi> Therefore; Go ye therefore.</item>
+            </list>
+            <p>Therefore, wherefore:
+<list>
+                  <item>Look <hi>ad Chriſtum.</hi>
+                  </item>
+                  <item>Lood <hi>ad Patentiam.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And firſt at Chriſt, <hi>He</hi> bids go; who <hi>dyed for us, nay, rather who is riſen again, ſits at the right hand of
+<pb n="13" facs="tcp:37089:7"/>God, and maketh interceſsion for us.</hi> Hath he done ſo much for us? go ye therefore.</p>
+            <p>Again, he hath all power; a bar againſt dilatory delay, he can make us go; go ye therefore.</p>
+            <p>But I muſt onely do with theſe waters which run under the threſh-hold of the Temple, as the Egyp<g ref="char:EOLhyphen"/>tian Dod doth as he goeth by the Banks of <hi>Nylus,</hi> lap and run on.</p>
+            <p>The ſecond part of my Text is the Apoſtles Letters Pa<g ref="char:EOLhyphen"/>ents for
+<list>
+                  <item>1. Preaching. and</item>
+                  <item>2. Baptizing.</item>
+               </list>
+            </p>
+            <p>Let us read their Commiſſion at large, 'tis this, <hi>Go teach all Nations, baptizing them in the Name of the Father, and of the Son, and of the Ho<g ref="char:EOLhyphen"/>ly Ghoſt.</hi>
+            </p>
+            <p>See here
+<list>
+                  <item>1. What they are allowed to do.</item>
+                  <item>2. How they muſt do it.</item>
+               </list>
+            </p>
+            <p>What they are allow<g ref="char:EOLhyphen"/>ed to do, it is this, to
+<list>
+                  <item>Teach,</item>
+                  <item>Baptize.</item>
+               </list>
+            </p>
+            <pb n="14" facs="tcp:37089:8"/>
+            <p> 
+               <hi>To teach,</hi> not then to be taught by them who Chriſt hath ſent them to teach; we have ſuch forward fel<g ref="char:EOLhyphen"/>lows in our Congregations, who will not ſtick to teach as <hi>blinde Byard,</hi> had they either learning or commiſſion to do it, I would be ſi<g ref="char:EOLhyphen"/>lent, but the want of both avows it is high preſumption.</p>
+            <p>The Commiſſion to inſtruct and teach in publick, you ſee, is onely granted by Chriſt under his own hand to the Apoſtles, and their un<g ref="char:EOLhyphen"/>doubted ſucceſſors, the Miniſters of the Gos;pel, who have leave, and by commiſſion, and from Chriſt to
+<list>
+                  <item>Teach.</item>
+                  <item>Baptized.</item>
+               </list>
+            </p>
+            <list>
+               <item>1. You ſee the Act licenſed, is to <hi>teach.</hi>
+               </item>
+               <item>2. For extent, it is <hi>all Nations.</hi>
+               </item>
+            </list>
+            <p>The other part of our Office, and we hold it from Chriſt, and by Chatter form him, it is to baptize;
+<pb n="15" facs="tcp:37089:8"/>For Quiddity, it is to baptize, Univerſality, all Nations. Why not Children then?</p>
+            <p>This and other Argumetns we ſhall uſe to confute the Herefie of the Anabaptiſts, and all that rabble ſent from Hell.</p>
+            <p>Next follows the <hi>Modus,</hi> or how this ſacred Sacrament muſt be ad<g ref="char:EOLhyphen"/>miniſtred, <hi>In nomine Patri<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Filii, &amp; Spiritus ſancti.</hi>
+            </p>
+            <p>The Jews and Turks they cir<g ref="char:EOLhyphen"/>cumcize, Chriſtians and none elſe they baptize.</p>
+            <p>The Jews believe not that the Meſſias is come; and ſo deny the ſecond Perſon.</p>
+            <p>The Turks deny both the ſecond preſon &amp; the third, the holy Ghoſt.</p>
+            <p>Onely Chriſtians believe a Trine Unity, one God, and three Perſons; and we baptize into this Faith, Baptizing in the Name of
+<pb n="16" facs="tcp:37089:9"/>the Father, Son, and Holy Ghoſt.</p>
+            <p>Nor run we without our War<g ref="char:EOLhyphen"/>rant, this to teach, <hi>a Trinity;</hi> and thus to baptize, <hi>In the Name of the three Perſons;</hi> ſince it is Chriſt him<g ref="char:EOLhyphen"/>ſelf who ſaith, <hi>Ite &amp; praedicate,</hi> Go and teach all Nations, baptizing them in the Name of the Father, the Son, and the Holy Ghoſt.</p>
+            <p>I would not like a careleſs Porter keep you without doors, till you have loſt your ſtomachs.</p>
+            <p>Each ſeveral part of my Text is a ſeveral Service; I will ſay to you as <hi>Abakkuk</hi> to the Prophet, <hi>Take the meat your God hath provided for you.</hi>
+            </p>
+            <p>And the firſt whole ſerive this day to be ſerved up is <hi>miſsio Apo<g ref="char:EOLhyphen"/>ſtolorum,</hi> the miſſion of the eleven, intimated while ſaid, Go ye there<g ref="char:EOLhyphen"/>fore.</p>
+            <p>The <hi>Perſona mittens,</hi> or he that ſends, is our Jeſus; ſo he ſayes, <hi>Go.</hi> This is the firſt diſh of the firſt ſer<g ref="char:EOLhyphen"/>vice;
+<pb n="17" facs="tcp:37089:9"/>but of this and divers others we muſt onely take a taſte, and keep our ſtomachs for a Chriſtening Dinner, I mean the Doctrine of Baptiſme, which is the laſt courſe, and the moſt fitting theſe Times and Seaſons.</p>
+            <p>Briefly then to give you a taſte and no more: and firſt of the Send<g ref="char:EOLhyphen"/>er, it is Chriſt, <hi>he bids go.</hi>
+            </p>
+            <p>And whoſoever is deſirous to go about this great work, our Maſter Chriſt, our Lord Chriſt muſt ſend; therefore <hi>Luke</hi> 10.3. himſelf ſaith, <hi>Ego mitto,</hi> I ſend you; but how, as Lambs among Wolves; yet <hi>ego mitto Go ye therefore.</hi>
+            </p>
+            <p>You might be diſheartened you poor Miniſters of my Goſpel to go among ravenous Wolves; but <hi>ego mitto,</hi> I ſend you, I bid go, <hi>Go ye therefore.</hi>
+            </p>
+            <p>Fear not to go and preach my Goſpel among men as fierce as
+<pb n="18" facs="tcp:37089:10"/>
+               <hi>Wolves,</hi> of whom it is reported, that after they have ſlain the innocent Lambs, lick their lips when they reek with their hearts blood; be the time ſuch, even to theſe Blood<g ref="char:EOLhyphen"/>hounds we muſt preach, not weigh<g ref="char:EOLhyphen"/>ing the danger, but the <hi>Sender,</hi> caſting our eyes up to his Greatneſs. Goodneſs.</p>
+            <p>And firſt his <hi>Greatneſs,</hi> who is ſole <hi>Independent,</hi> that is, under no authority, and a Name onely fit for the Lord of Heaven and Earth; and it is high ambition, yea, high Teaſon to attribute it to any mor<g ref="char:EOLhyphen"/>tal man.</p>
+            <p>He ſends, who is a King of abſo<g ref="char:EOLhyphen"/>lute independent Power, who pur<g ref="char:EOLhyphen"/>poſeth and diſpoſeth all things as he pleaſes, as one ſaith, <q>Tyrants are the Kings of ſlaves, Princes are the Kings of men, Chriſt is the King of kings, here diſpatch<g ref="char:EOLhyphen"/>ing us his Legats on his Embaſſage to the world.</q>
+            </p>
+            <pb n="19" facs="tcp:37089:10"/>
+            <p> This doth divulge his <hi>Greatneſs,</hi> and his Commiſſion begets in us a courage to tell <hi>Judah</hi> of her ſin, and <hi>Iſrael</hi> of her tranſgreſſions.</p>
+            <p>I cannot but likewiſe take notice of the Senders <hi>Goodneſs,</hi> to ſend <hi>to us men,</hi> a ſort of miſerable, treache<g ref="char:EOLhyphen"/>rous wretches, <hi>qui pulvis, &amp; cines, &amp; Del hoſtes;</hi> he ſends to us who are duſt and aſhes, and Gods grand foes.</p>
+            <p>Here is Love ſurpaſſing mans ex<g ref="char:EOLhyphen"/>preſſion; God grant that our Love may be reciprocal, and to this let all the people ſay, <hi>Amen.</hi>
+            </p>
+            <p>Our Lord and Saviour he ſends to us miſerable ſinners, he ſends to man, man elſe meant not to make to him.</p>
+            <p>
+               <hi>Chriſt is the way, the truth, the life,</hi> &amp; if the way had not found out us, we ſhould never have found out the way: herein appears Gods good<g ref="char:EOLhyphen"/>neſs, that early and late Meſſengers
+<pb n="20" facs="tcp:37089:11"/>are ſent unto you, to beg to you to be reconciled to God in Chriſt Je<g ref="char:EOLhyphen"/>ſus. Such a meſſage, and from ſuch a Statiſt, <hi>&amp; non ſauciare ſanos, ſe<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſanare ſaucios;</hi> not to ſlay the ſound but to make well the wounded: this ſhows Gods infinite goodneſs to us wretched creatures, and obliges all the people to the Lord of life for ever.</p>
+            <p>But in haſte I will paſs along from the Perſon ſending to the Perſons ſent; and therein firſt of the <hi>Ite,</hi> then the <hi>Ergo.</hi>
+            </p>
+            <p>The Perſons ſent by Chriſt are <hi>ye;</hi> the cauſe why they muſt aſſent to be ſent lieth hid in this <hi>therefore.</hi>
+            </p>
+            <p>Well, the Sender being <hi>Chriſt,</hi> the Meſſengers being ſent and theſe <hi>Apoſtolick Miniſters;</hi> firſt they re<g ref="char:EOLhyphen"/>ceive Order, and then they go, but not before, for not authorized.</p>
+            <p>Mark and minde it.</p>
+            <p>Without Chriſt bid go, he is an
+<pb n="21" facs="tcp:37089:11"/>Intruder into Chriſt his Harveſt, hat undertakes his labour to Preach, Baptize.</p>
+            <p>None muſt dare to go, but ſuch is have a calling for it; while Chriſt was on earth it was a ſuffici<g ref="char:EOLhyphen"/>ent warrant, <hi>ego mitto,</hi> Matth. 10.16. or <hi>Ite,</hi> go ye, as here.</p>
+            <p>As out of his cloathes, ſo out of his mouth paſſed vertue to fit and furniſh thoſe he called to go.</p>
+            <p>But what were they to go and do? Read my Text, <hi>To teach and baptize,</hi> Mat. 18. <hi>to binde, to looſe,</hi> John 20. <hi>to remit and retain ſins;</hi> yet more ſaith S. <hi>Paul,</hi> 2 Cor. 5.18. <hi>God hath given unto us the Miniſtery of Reconciliation,</hi> which ſtands in the diſpenſation of the Word and Sacraments. But as none have theſe high priviledges till called by Chriſt to this high Office the Mi<g ref="char:EOLhyphen"/>niſtery, ſo it plainly appears this was not a perſonal Legacy onely
+<pb n="22" facs="tcp:37089:12"/>given to the then Apoſtles, but Church Legacy legated to the Suc<g ref="char:EOLhyphen"/>ceſſors of thoſe Diſciples of Chriſt Jeſus; for I muſt tell you, there were not onely Apoſtles, but ſome Prophets, ſome Evangeliſts, ſome Paſtors, ſome Teachers, which were to joyn in the work of the Miniſtery for the gathering of the Saints, <hi>Epheſ.</hi> 4.11, 12.</p>
+            <p>And as Chriſt ordained his twelve, they the ſeventy; ſo we be<g ref="char:EOLhyphen"/>ing ordained by their Succeſſours, our Biſhops, our Ordination is ac<g ref="char:EOLhyphen"/>knowledged valid, while with holy Prayers, holy Impoſition of hands is laid upon us as was upon <hi>Timothy</hi> by <hi>Paul,</hi> 2 <hi>Tim.</hi> 1.6.</p>
+            <p>Again, ſince all Nations were to be taught and baptized, and the commiſſionated could not by them<g ref="char:EOLhyphen"/>ſelves do what commanded, many ages ſucceeding, after their depar<g ref="char:EOLhyphen"/>ture out of this life; and ſince all
+<pb n="23" facs="tcp:37089:12"/>Saints to be born in all Centuries were to be gathered by the work of the Miniſtery; hence neceſſarily it follows, ſome <hi>debitated</hi> were to make Impoſition of Hands upon ſome adjudged by the <hi>Church</hi> ſuffi<g ref="char:EOLhyphen"/>cient for ſo high a calling. And as ſome few among many thouſands in the Apoſtles dayes were onely thought ſufficient to be cull'd out by Ordination to this high calling, ſo ſince the Apoſtles deceaſed, their ſupervivers, or ſuccceſſors in office, have trod in their ſteps, chuſing ſome to be admitted-into the Holy Office, not daring promiſcuouſly to lay hands upon all, as do thoſe He<g ref="char:EOLhyphen"/>reticks the Anabaptiſts.</p>
+            <p>And to make it more manifeſt how it is a Catholick and Funda<g ref="char:EOLhyphen"/>mental Doctrine, Impoſition of Hands, and that not upon all, but onely ſuch approved by Power Epiſcopal, the Chriſtian Church
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:37089:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:37089:13"/>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="26" facs="tcp:37089:14"/>a moſt horrid ſin ſuffered? No, ne<g ref="char:EOLhyphen"/>ver, but in a diſtracted Common<g ref="char:EOLhyphen"/>wealth, or a Kingdom God meant to ruine: <hi>Portenta dira,</hi> theſe are ſad preſages. O ye preſumptuous ſpi<g ref="char:EOLhyphen"/>rits, who deſpiſe all Government and Order of God in his Church; remember to your everlaſting hor<g ref="char:EOLhyphen"/>ror <hi>Nadab,</hi> and <hi>Abihu,</hi> and <hi>Uzza,</hi> and their fearful ends for the like ſins.</p>
+            <p>You who will <hi>ire &amp; praedi<g ref="char:EOLhyphen"/>care,</hi> know you have gone, but the Lord ſent you not; you have preached, but the Lord ſpoke not by you.</p>
+            <p>If you will yet take upon you the <hi>Ite,</hi> know my Lord hath given me command to divorce from your <hi>ite, praedicate,</hi> and to joyn together to your eternal terror, <hi>Ite maledicti.</hi>
+            </p>
+            <p>If you have not ſo much learn<g ref="char:EOLhyphen"/>ing as to know my meaning, how dare you lay hands on theſe high
+<pb n="27" facs="tcp:37089:14"/>Myſteries, the Word and Sacra<g ref="char:EOLhyphen"/>ments.</p>
+            <p>After the <hi>ite</hi> in cometh the <hi>ergo,</hi> therefore; as much, as if Chriſt had ſaid ſince I have all Power in Hea<g ref="char:EOLhyphen"/>ven and Earth, you who be but earth, muſt obey me the God of Heaven: you cannot have a greater to command then I, nor I finde weaker to withſtand then you: <hi>Ite igitur,</hi> Go ye therefore.</p>
+            <p>There is no reſiſtance, <hi>Ion as</hi> may be ſhipt for <hi>Tarſhiſh,</hi> but he who bid go to <hi>Nineve</hi> will finde him out, unſhip him, and make a Whale fer<g ref="char:EOLhyphen"/>ry him to the place he had his firſt commiſſion for; <hi>ite igitur,</hi> go ye therefore.</p>
+            <p>Note it, the power God hath over us, muſt overawe us, and prick us forward to go about the work of the Lord: <hi>Ite igitur,</hi> Go ye there<g ref="char:EOLhyphen"/>fore.</p>
+            <p>Again, Chriſt hath power to in<g ref="char:EOLhyphen"/>ſpire
+<pb n="28" facs="tcp:37089:15"/>us with his ſpirit: <hi>Moſes</hi> is a man of a ſtammering tongue, the Apoſtles ignorant what to anſwer; remember what is ſaid to the <hi>com<g ref="char:EOLhyphen"/>miſſionated,</hi> in the ſame hour it ſhall be given unto you, for God com<g ref="char:EOLhyphen"/>monly furniſhes them with gifts who are lawfully ordained: Here is <hi>magna potentia,</hi> Gods great power made manifeſt in weak contempti<g ref="char:EOLhyphen"/>ble Inſtruments. Since it is thus, <hi>Ite igitur,</hi> go ye therefore.</p>
+            <p>Again, our God, our Chriſt hath power to defend us: Thus <hi>Elias</hi> when an Army ſent to attach him, and an Hoſt of Angels ſent to re<g ref="char:EOLhyphen"/>lieve him; thus <hi>Daniel</hi> in the Den, the <hi>three</hi> in the Furnace, and the <hi>Preacher Noe</hi> in the Ark, when the whole world, except eight perſons, where drowned.</p>
+            <p>Who ſo have Gods Commiſſion to go and teach and baptize, I mean to be Miniſters of the Goſ<g ref="char:EOLhyphen"/>pel,
+<pb n="29" facs="tcp:37089:15"/>let them not fear the arm of man, God can preſerve; <hi>Ite igitur,</hi> go ye therefore.</p>
+            <p>And the rather, for that our Lord and bleſſed Saviour hath power to reward; call to minde what is ſaid, and by that Miniſter of the Gentiles, Henceforth is laid up for me a Crown of immortall glory.</p>
+            <p>What though we have been in perils by land, in perils by water, in perils amongſt falſe Brethren, yet our reward is laid up in heaven; a prize ſo good, and a place ſo ſe<g ref="char:EOLhyphen"/>cure, ſo that none can deprive us of it.</p>
+            <p>Here for preaching the true Do<g ref="char:EOLhyphen"/>ctrine of Chriſt Jeſus, and ſevering the tares from the wheat, Hereſies from Goſpel Truths, perchance we may ſuffer Impriſonment, con<g ref="char:EOLhyphen"/>fiſcation of our Livings, it may come <hi>ad ſanguinem,</hi> to loſs of life.
+<pb n="30" facs="tcp:37089:16"/>But that come ye children of my Father, receive the Kingdom; tha<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>venite</hi> commands this <hi>ite:</hi> fince but this world to be loſt, heaven to be had, and enſured at our end; <hi>ite igi<g ref="char:EOLhyphen"/>tur,</hi> go ye therefore.</p>
+            <p>And now to give you the Collect of all, ſince we Teachers ſhall have our reward in the world to come; ſince here, if God think meet, he can defend us from the violence of unruly men; ſince he can fit us for this high calling, the work of the Miniſtery; and ſince to reſiſt is to reſiſt the power of God, <hi>Ite igitur &amp; praedicate,</hi> Go ye therefore and teach all Nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghoſt.</p>
+            <p>The act licenſed is to teach. The extent extends to all Nations; go teach all Nations.</p>
+            <p>
+               <hi>What</hi> and <hi>how</hi> muſt be thought of, teach them <hi>verbum Chriſtum, ver<g ref="char:EOLhyphen"/>bum Chriſti.</hi>
+            </p>
+            <pb n="31" facs="tcp:37089:16"/>
+            <p> Teach the word Chriſt, for ſo he is ſtiled, <hi>Iohn</hi> 1.1. It was <hi>Pauls</hi> religious ambition to know no<g ref="char:EOLhyphen"/>thing but Chriſt and him crucfied; ſaith he, <hi>I count all as dung to the ex<g ref="char:EOLhyphen"/>cellent knowledge of Christ Ieſus.</hi>
+            </p>
+            <p>This is that <hi>unum neceſſarium,</hi> one thing onely needful to know Chriſt Jeſus, <hi>Iohn</hi> 17.3. his birth, death, reſurrection, aſcention, and his for ever making interceſſion for us.</p>
+            <p>This muſt be <hi>ſubjectum &amp; baſis praedicationis,</hi> the ſubject of our ſer<g ref="char:EOLhyphen"/>mons <hi>Chriſt Jeſus;</hi> and the reaſon is given by St. <hi>John</hi> the Evangeliſt, who ſaid, <hi>Haec eſt vita aeterna,</hi> this is life eternal, to know God, and whom he hath ſent, Chriſt Jeſus. O what a plentiful Harveſt is here! I wiſh we had had more time to inn this divine grain.</p>
+            <p>But as we muſt reach you to know <hi>verbum Chriſtum,</hi> the word
+<pb n="32" facs="tcp:37089:17"/>Chriſt, ſo <hi>verbum Chriſti,</hi> the word of Chriſt; two places I will preſs upon you, one threatning judge<g ref="char:EOLhyphen"/>ment without repentance, <hi>Matth.</hi> 3.10. where it is ſaid, <hi>And now alſo the ax is laid to the root of the tree, and every tree which bringeth not forth good fruit ſhall be hewen down, and caſt into the fire.</hi> The other place promiſing ſalvation to all that con<g ref="char:EOLhyphen"/>feſs and believe, Rom. 10.9. the words be theſe; <hi>who ſo confeſſeth with his mouth the Lord Jeſus, and ſhall believe in his heart, that God hath raiſed him from the dead, ſhall be ſaved.</hi>
+            </p>
+            <p>I cannot give you a leſs Manuel of the Law and Goſpel, the one place ſteering you off the rock Preſumption; the other preſerving you from being cruſhed upon the rock Deſpair; while the one threat<g ref="char:EOLhyphen"/>ning puniſhment, the other pro<g ref="char:EOLhyphen"/>miſing ſalvation: and now betwixt
+<pb n="33" facs="tcp:37089:17"/>theſe two, <hi>the Lord grant we may ſail in ſafely to that haven the kingdom of heaven.</hi>
+            </p>
+            <p>And ſo I paſs along from the <hi>quid</hi> to the <hi>quomodo,</hi> how we muſt teach the people of God the good Word of God.</p>
+            <list>
+               <item>
+                  <hi>Quoad ſe.</hi>
+               </item>
+               <item>
+                  <hi>Quoad nos.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Quoad ſe</hi>
+               <list>
+                  <item>
+                     <hi>purè.</hi>
+                  </item>
+                  <item>
+                     <hi>integrè.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Purè</hi> purely, not teaching for Doctrine the Traditions of men; God will not be pleaſed that we preach what we pleaſe; the gold muſt all of it be fined and refined, which we hammer upon that anvil the Pulpit: we have no licence to disburſe any other <hi>Peters pence</hi> unto Gods people, ſave ſuch as have been delivered to our hands out of the Treaſury of the Scriptures.</p>
+            <p>And therefore our ſacred Bel<g ref="char:EOLhyphen"/>lows have in them no winde to blow and bouy up a people into
+<pb n="34" facs="tcp:37089:18"/>rebellion againſt their Sovereign; we know better how to interpret that Text, <hi>Curſe ye Meroz,</hi> then ſome have done; who for (I had almoſt ſaid their unpardonable ſin) conſcience enjoyned a publique penance.</p>
+            <p>Again, you may long be hear<g ref="char:EOLhyphen"/>ers of Orthodox Divines before they give the leaſt encouragement for a Civil State to rob Chriſts Church.</p>
+            <p>Nor yet hear till that they ap<g ref="char:EOLhyphen"/>prove of thoſe numberleſs Locuſts the <hi>Enthuſiaſts,</hi> who being taught by a white devil, pretend Gods Spirit to deſtroy Chriſts Go<g ref="char:EOLhyphen"/>ſpel.</p>
+            <p>No, we honour the goſpel of Chriſt Jeſus, praiſe God for thoſe that bring purple and fine blue to adorn the Sanctuary; and preach, ever ſince we have heard of
+<pb n="35" facs="tcp:37089:18"/>the mutinous angels, obedience to the Sovereign Power, under whom we have lived for many years a god<g ref="char:EOLhyphen"/>ly and peaceable life.</p>
+            <p>And thus having winnowed out the chaff, we feed you with the kernel of the Scripture; the Babes with Spoon-meat, milk; the ſtrong men with Manna, meat for An<g ref="char:EOLhyphen"/>gels: neither muſt we be ſpiritual niggards, but <hi>integrè,</hi> wholly im<g ref="char:EOLhyphen"/>part, and make known unto you the Goſpel of Chriſt Jeſus; we muſt endeavour to imitate the Apo<g ref="char:EOLhyphen"/>ſtle, who ſayes, <hi>I have hid,</hi> no, <hi>no<g ref="char:EOLhyphen"/>thing from you.</hi>
+            </p>
+            <p>What ſhall we think then of ſuch Miniſters, that have hid the truth in unrighteouſneſs; who many years have concealed, while not read, the Ten Commandments in our Churches: ſurely theſe are thoſe new kinde of Miniſters, that would have their hearers forget
+<pb n="36" facs="tcp:37089:19"/>their duty to God, and charity to<g ref="char:EOLhyphen"/>wards their neighbours.</p>
+            <p>What ſhall we think of thoſe Teachers ſprung up of late like Muſhrums, who have hid, while hindered their Pariſhioners for ma<g ref="char:EOLhyphen"/>ny years from receiving the Holy Communion? Had the good peo<g ref="char:EOLhyphen"/>ple detained their Tythes, when theſe Mungril Miniſters firſt re<g ref="char:EOLhyphen"/>frained giving Communion, I will warrant you, ere they would have wanted the Pig and Gooſe, they would have given you the Bread and the Wine.</p>
+            <p>What ſhall we ſay now to thoſe Preachers, who deptive poor In<g ref="char:EOLhyphen"/>fants of their <hi>jus divinum,</hi> I mean Baptiſme; but of this I ſhall make a large diſcourſe, to the Anabap<g ref="char:EOLhyphen"/>tiſts ſhame, and our Mother the Churches renown.</p>
+            <p>Theſe are the Preachers who have detained from Infants their
+<pb n="37" facs="tcp:37089:19"/>due, and alſo ſtoln from us Chriſts Legacy; while inſtead of peace they have cryed up war; in the room of Subjection, voted up Rebellion; in the ſtead of Religi<g ref="char:EOLhyphen"/>on, brought in Atheiſm; nay, their falſe Doctrine ſo commonly venti<g ref="char:EOLhyphen"/>lated hath made as fearful a rent in our Church and State, as was at the death of the King of <hi>Salem</hi> in the Temple of <hi>Jeruſalem.</hi> As our ſins have brought upon us this miſery, ſo none can help us but the King of glory.</p>
+            <p>
+               <hi>Now Lord for thy ancient mercies ſake, for thy Son his merits ſake, be good unto Zion, and build up the brea<g ref="char:EOLhyphen"/>ches in the walls of our Jeruſalem.</hi>
+            </p>
+            <p>And thus having prayed for our ſelves, let us look <hi>quoad nos,</hi> at our ſelves, and take into conſideration how we the Miniſters of Chriſt Je<g ref="char:EOLhyphen"/>ſus ought to preach the Goſpel: this muſt be done with a quick
+<pb n="38" facs="tcp:37089:20"/>ſpeed, deliberate diſcretion, with a conſtant continuance, to joyn all together.</p>
+            <p>Haſte without diſcretion, is like wings without eyes; diſcretion without haſte, is like eyes without wings; both without conſtancy, is like feet and eyes without an heart.</p>
+            <p>Firſt, we muſt haſten to our buſineſs, and teach; ſaith St. <hi>Paul, I conferred not with fleſh and blood, when it pleaſed God to ſend me to preach his Son among the Heathen,</hi> Gal. 1.16. And to ſhew what ſpeed all the Apoſtles were to make, they are commanded to ſalute none by the way. Remember what <hi>Solomon</hi> ſaith, <hi>As vinegar is to the teeth; and ſmoak to the eyes, ſo is a ſluggard to them that ſend him,</hi> Prov. 10.26. Remember <hi>Peter</hi> and <hi>John</hi> were at the Temple at the third hour of the day.</p>
+            <p>Secondly, Diſcretion is mighti<g ref="char:EOLhyphen"/>ly
+<pb n="39" facs="tcp:37089:20"/>required in teaching, to make our ſpiritual receipts; we ſtand in need to be inſpired with Gods Spirit; and all this to know how much <hi>ole<g ref="char:EOLhyphen"/>um,</hi> and how much <hi>acetum</hi> we muſt pour in.</p>
+            <p n="3">3. We are to hold on teaching, for 'tis ſaid, <hi>Curſed is he that puts his hand to the plough, and pulls it back.</hi> A Miniſters work is never at an end; for as we make, the Devil mars, we muſt therefore to our work again; as we ſowe the wheat, the envious man ſowes tares; when therefore tilth time is paſt, <hi>preach<g ref="char:EOLhyphen"/>ing the Law,</hi> ſeed-time paſt, <hi>preach<g ref="char:EOLhyphen"/>ing the Goſpel,</hi> The weeding time comes in, and never ends till our end, till you, Gods, harveſt, be inn'd into that common barn the grave.</p>
+            <p>Here is work for us then all our lives; you finde us work, a long life-laſting work; 'tis an hard caſe to work ſo long for no wages, for
+<pb n="40" facs="tcp:37089:21"/>ſmall wages; nay more, for all our pains to be ſcourged out of the Temple, plundered of all our goods, as <hi>Iob</hi> was by the Devil; impriſoned, and fed with the bread of affliction, as was <hi>Micaiah;</hi> well, he was an <hi>Ahab</hi> who uſed Gods Prophet thus; and one <hi>ſold himſelf to do wickedneſs in the ſight of the Lord:</hi> yet for all this deſpite, this is our comfort, <hi>Our reward is with the Lord.</hi>
+            </p>
+            <p>But now I paſs from the act to the extent; from the act, <hi>Teach,</hi> to the extent, <hi>all Nations.</hi> It is an Apo<g ref="char:EOLhyphen"/>ſtolical charge to go and teach all Nations. Hence it is Saint <hi>Paul</hi> ſayes, <hi>The care of all the Churches are upon me.</hi> If ſo much had been ſaid by Saint <hi>Peter,</hi> it had been a good plea for an univerſal Biſhop<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>But why will Chriſt have us to go and teach all Nations? that what
+<pb n="41" facs="tcp:37089:21"/>is ſaid might be verified; the ſound of his word is gone through all the World, all Nations in the World.</p>
+            <p>Again, thus goeth the com<g ref="char:EOLhyphen"/>mand, <hi>Go and teach all Nations;</hi> and why, to leave all inexcuſable: all Nations muſt be taught as to con<g ref="char:EOLhyphen"/>vince all, ſo to call home ſome; all Nation, as Jews ſo Gentiles: that I note is, the partition-wall is broken down, <hi>Epheſ.</hi> 2.15. And <hi>peace is preached to you, who are afar off, as well as to them who were nigh at band;</hi> yea, Chriſt by the Preach<g ref="char:EOLhyphen"/>ing of his word is become a light to us Gentiles as well as <hi>the glory of his people Iſrael. We are not now ſtrangers to the Covenant of Gods pro<g ref="char:EOLhyphen"/>miſe, but of the houſehold of God, built upon the foundation of the Prophets. Chriſt being the head corner-ſtone,</hi> Epheſ. 2.20.</p>
+            <p>Again, by <hi>all Nations,</hi> may be meant all of all Nations, without exception.</p>
+            <pb n="42" facs="tcp:37089:22"/>
+            <p> That I note is, we are to teach all of all ſorts, Kings, and tell them, of whom they hold their Crowns, immediately of the Lord, <hi>Prov.</hi> 8. 15. is my witneſs, where ſaid, <hi>By me Kings do reign.</hi> We muſt tell ſub<g ref="char:EOLhyphen"/>jects, that they ought to be ſubject to the King, and that for the Lords ſake, 1 <hi>Pet.</hi> 2.13. Preachers, that it is their office, <hi>Paſcereoves,</hi> to feed that <hi>flock</hi> over which God hath made them overſeers, <hi>Iohn</hi> 21.17. <hi>Soldiers, that they muſt be content with their wages, and do violence to no man,</hi> Luke 3.14. Traytors, that whoſo reſiſteth the higher power, reſiſteth the power of God, <hi>Rom.</hi> 13.2. Church robbers, that they are God robbers, <hi>Mal.</hi> 3.8. Head<g ref="char:EOLhyphen"/>ſtrong Hereticks, that in the latter time <hi>perillous times ſhall come,</hi> 2 Tim. 3. pray you read the whole chapter. Our commiſſion extends to all, to inſtruct and reprove all, all in all Nations.</p>
+            <pb n="43" facs="tcp:37089:22"/>
+            <p> I could tell you how it comes to paſs, that a ſort of our brother<g ref="char:EOLhyphen"/>hood do not, dare not do their of<g ref="char:EOLhyphen"/>fice to inſtruct, reprove all of all ſorts; ſome do not, they are affraid to reprove them, who have pre<g ref="char:EOLhyphen"/>ferred them to other honeſt mens Livings, but how juſtly, let God be judge.</p>
+            <p>Another fort dare not, they are afraid to tell <hi>Inda</hi> of her ſin, leſt ſome of the Bulls of <hi>Baſhan</hi> or curſt Kine of <hi>Samaria</hi> puſh them with their horns; and thus they had ra<g ref="char:EOLhyphen"/>ther hazard their poor ſouls, then endanger their fat Benefices. I wiſh theſe Trencher-chaplains and time obſervers would remember what is ſaid, <hi>If my people periſh for want of knowledge, their blood will I require at thy hand.</hi>
+            </p>
+            <p>I ſpeak it from the bottom of my heart, that this muzzling the mouth of the Miniſters with fear, or elſe
+<pb n="44" facs="tcp:37089:23"/>gagging them with the gift of a fat Benefice hath made an Atheiſtical Nation, and a purblinde people; yea, ſome of them are grown ſo ve<g ref="char:EOLhyphen"/>ry blinde in all Divine duties, yea, I ſay as blinde as Carders in Chriſt<g ref="char:EOLhyphen"/>tide, who having ſit up night after night, and being long overwaked, when they look at their cards, they know not a King from a Knave.</p>
+            <p>But I fear too long I have inſiſted upon this part of my Text; through all the other parts of this verſe, I will make as much haſte as the Iſra<g ref="char:EOLhyphen"/>elites made in their paſſage thorow the Red Sea.</p>
+            <p>The other part of our Office is to Baptize, <hi>In the Name of the Father, and of the Son, and of the Holy Ghoſt.</hi>
+            </p>
+            <list>
+               <item>1. See what we have commiſſion to do, to baptize.</item>
+               <item>2. See how we muſt baptize, <hi>In nomine Patris, Filli, &amp; Spiritus ſancti.</hi>
+               </item>
+            </list>
+            <p>And this is one of the great works
+<pb n="45" facs="tcp:37089:23"/>we Miniſters of Chriſt Jeſus are enjoyned, to adminiſter the ſacred Sacrament of Baptiſme.</p>
+            <p>It is not much to our purpoſe, yet may ſerve to lead us orderly on to our buſineſs to begin at the be<g ref="char:EOLhyphen"/>ginning of the Inſtitution of Sacra<g ref="char:EOLhyphen"/>ments, and to give you a ſummary of them briefly.</p>
+            <p>Briefly then, there were Sacraments
+<list>
+                  <item>before the fall.</item>
+                  <item>after the fall.</item>
+               </list>
+            </p>
+            <p>Before the fall two.</p>
+            <list>
+               <item>
+                  <hi>Sacramentum immortalitatis.</hi>
+               </item>
+               <item>
+                  <hi>Sacramentum probationis.</hi>
+               </item>
+            </list>
+            <p>The Sacrament of Immortality, the tree of life; the Sacrament of trial, the tree of the knowledge of good and evil.</p>
+            <p>After the fall. Some were Sacra<g ref="char:EOLhyphen"/>ments enjoyned under the
+<list>
+                  <item>Old Teſtament.</item>
+                  <item>New Teſtament.</item>
+               </list>
+            </p>
+            <p>Thoſe in the Old Teſtament were extraordinary, and ordinary.</p>
+            <pb n="46" facs="tcp:37089:24"/>
+            <p> Extraordinary, ſuch as <hi>Diluvium, Tranſitus per mare, Mana è Calo, Aqua è petra.</hi>
+            </p>
+            <p>Ordinary were, Univerſal and Special Sacraments.</p>
+            <p>Univerſal, one and no more, the Rainbow.</p>
+            <p>Special, in the Old Teſtament were two, by name
+<list>
+                  <item>Circumciſion.</item>
+                  <item>The Paſchal Lamb.</item>
+               </list>
+            </p>
+            <p>Laſtly, there were Sacraments ordained under the New Teſta<g ref="char:EOLhyphen"/>ment, and they were 2.</p>
+            <list>
+               <item>Baptiſme.</item>
+               <item>The Lords Supper.</item>
+            </list>
+            <p>Theſe are the laſt were inſtituted, and it is of the laſt, but the laſt, I am now to treat, by name Baptiſm.</p>
+            <p>All the foregoing Sacraments I have as lightly touched, as the wo<g ref="char:EOLhyphen"/>man in the Goſpel, Chriſt, who touched but the hem of his gar<g ref="char:EOLhyphen"/>ment; and it is all, that I may haſten to that ſacred Sacrament of Bap<g ref="char:EOLhyphen"/>tiſme.</p>
+            <pb n="47" facs="tcp:37089:24"/>
+            <p> Look upon the words of our Sa<g ref="char:EOLhyphen"/>viour, <hi>Go ye therefore and teach all Nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghoſt.</hi> It needs no collect<g ref="char:EOLhyphen"/>ing, onely your obſerving how it is a part of the office of the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt Jeſus to baptize, to adminiſter the Sacrament of <hi>Bap<g ref="char:EOLhyphen"/>tiſme;</hi> of which Sacrament while I ſpeak, Lord grant I may do it <hi>ſacra<g ref="char:EOLhyphen"/>mente,</hi> with an holy heart.</p>
+            <p>I mean, God willing, to treat of this Sacra<g ref="char:EOLhyphen"/>ment,
+<list>
+                  <item>
+                     <hi>Conjunctim.</hi>
+                  </item>
+                  <item>
+                     <hi>Disjunctim.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Conjunctim,</hi> as being one of the two; <hi>Disjunctim,</hi> as ſingled out by it ſelf.</p>
+            <p>We Proteſtants acknowledge our Chriſt left us onely two Sacra<g ref="char:EOLhyphen"/>ments, whereof this is one, <hi>Baptiſm;</hi> and that, the other, called, <hi>The Sup<g ref="char:EOLhyphen"/>per of the Lord.</hi>
+            </p>
+            <p>And yet the Papiſts will
+<pb n="48" facs="tcp:37089:25"/>have ſeven Sacraments, <hi>videlicet,</hi> Baptiſm. 2. Confirmation. 3. The Euchariſt. 4. Penance. 5. Extream Unction. 6. Orders. 7. Matrimo<g ref="char:EOLhyphen"/>ny; and the Council of <hi>Trent</hi> cur<g ref="char:EOLhyphen"/>ſes all Chriſtians that ſay there are more or fewer.</p>
+            <p>Accurſed then muſt be their own Cardinal <hi>Baſſarion,</hi> for he confeſſes but two Sacraments. Accurſed then muſt be <hi>Iſidore,</hi> for he will have but three. Accurſed then muſt be their <hi>Alexander de Hales,</hi> for he four. Ac<g ref="char:EOLhyphen"/>curſed muſt be the Author bearing the name of <hi>Cyprian,</hi> for he holds five onely. And laſtly, accurſt muſt be <hi>Cajetan</hi> and <hi>Durandus,</hi> for theſe maintain there are more then two, and leſs then ſeven, while they teach there are are onely ſix.</p>
+            <p>And yet the Papiſts maddle upon the number ſeven, eſpecially <hi>Bellar<g ref="char:EOLhyphen"/>mine;</hi> for ſayes he, The ſeven Ver<g ref="char:EOLhyphen"/>tues, the ſeven capital Sins, the ſe<g ref="char:EOLhyphen"/>ven
+<pb n="49" facs="tcp:37089:25"/>Planets, the ſeven Defects, the ſeven golden Candleſticks, the ſe<g ref="char:EOLhyphen"/>ven Seals, the ſeven Trumpets, the ſeven Angels, blaze there are ſeven Sacraments. I wonder they for<g ref="char:EOLhyphen"/>gat the woman in <hi>Rev.</hi> 17.3. with her ſeven Heads.</p>
+            <p>But if this plea were ſatisfactory, I could likewiſe countenace the number of two, with two Tables, two Teſtaments, two Trumpets, two Swords, two Witneſſes; but this is childiſhneſs.</p>
+            <p>That theſe are two Sacraments it is confeſſed by our adverſaries; that theſe two are all, is juſtified by us of the Reformed Churches, and proved by Gods word, 1 <hi>Cor.</hi> 10.1, 2, 3, 4.</p>
+            <p>And we have the unity of the Fathers, St. <hi>Jerome,</hi> St. <hi>Ambroſe,</hi> St. <hi>Anguſtine,</hi> all averring two one<g ref="char:EOLhyphen"/>ly and neceſſary to ſalvation. The fountain out of which they did flow was Chriſts ſide, when he ſwet
+<pb n="50" facs="tcp:37089:26"/>water and blood. Theſe two Go<g ref="char:EOLhyphen"/>ſpel Sacraments he left us inſtead of the two Sacraments under the Law; the one we once recieve, the other oft; Baptiſme preſently after our birth, the Lords Supper when we come to maturity, or full growth: and as the childe is once born, but muſt oft eat, ſo we are baptized but once, oftentimes feed upon the body and blood of our Lord and Saviour Chriſt Jeſus.</p>
+            <p>Having ſpoken upon theſe two Sacraments <hi>conjunction,</hi> now give me leave to ſpeak upon this Sacra<g ref="char:EOLhyphen"/>ment of Baptiſme <hi>disjunction,</hi> ſingle by it ſelf.</p>
+            <p>And ſince it belongs to my Office to baptize, I think it very fit to let you know what is Baptiſme. Se<g ref="char:EOLhyphen"/>condly, what is covenanted at it. Thirdly, why the Church requires Sureties. Fourthly, why common<g ref="char:EOLhyphen"/>ly adminiſtered at the Church door. Fifthly, whether abſolutely
+<pb n="51" facs="tcp:37089:26"/>needful. Sixthly, what good got by it. Laſtly, whether lawful to baptize Children.</p>
+            <p>And of every of theſe a word, and but a word, till we come to the laſt ſo much controverted. And firſt of the firſt, I take Baptiſm to be <hi>primum novi foeder is Sacramen<g ref="char:EOLhyphen"/>tum, in quo elect is in Dei familiam re<g ref="char:EOLhyphen"/>ceptis externae aquae aſperſione, pecca<g ref="char:EOLhyphen"/>torum remiſsio, &amp; regeneratio per ſanguinem Chriſti &amp; Spiritum ſan<g ref="char:EOLhyphen"/>ctum obſignatur. Baptiſm</hi> is the Seal ſet to the New Covenant, whereby we being received into Gods Hou<g ref="char:EOLhyphen"/>ſhold by the waſhing of water, have ſealed unto us by Chriſt and his Holy Spirit, Remiſſion of our ſins, and Regeneration.</p>
+            <p>The Word of God is Gods hand writing, which he paſſes to enſure us we ſhall be ſaved, and <hi>this Sacra<g ref="char:EOLhyphen"/>ment</hi> is his Seal; what would you have more then hand and ſeal? O
+<pb n="52" facs="tcp:37089:27"/>this Sacrament ſeals our pardon, and enſures us heaven; yea, it is the general Tenet of the Catholique Church, That no Chriſtians childe baptized, dying before it come <hi>ad uſum rationis,</hi> was ever damned, but of this <hi>ſuo proprioloco,</hi> in its pro<g ref="char:EOLhyphen"/>perplace.</p>
+            <p>The next thing to be conſidered is, what covenanted when the child is baptized; &amp; know it, this is the <hi>good,</hi> the <hi>adulti,</hi> which thoſe of ripe years get by ſtaying out the Adminiſtra<g ref="char:EOLhyphen"/>tion of this Bleſſed Sacrament. O! it puts you in minde what covenant<g ref="char:EOLhyphen"/>ed when you were Chriſtened.</p>
+            <p>I will give you it in my Common Prayer Books Language, and the rather, <hi>Becauſe I dearly love it, nei<g ref="char:EOLhyphen"/>ther care I who know it.</hi>
+            </p>
+            <p>At you Baptiſm you covenant to forſake the Devil and all his Works, the vain Pomp and Glory of the World, with all covetous
+<pb n="53" facs="tcp:37089:27"/>deſires of the ſame, the carnal de<g ref="char:EOLhyphen"/>ſires of the fleſh, ſo that you will not follow, nor be led by them; in one word, you promiſe to forſake <hi>the world, Fleſh, and Devil,</hi> to leave being at the command of thoſe three, and be obedient unto the other three, <hi>Father, Son, Holy Ghoſt,</hi> but why will not the Anabaptiſts ſuffer their new born children by their Sureties to make this holy League with God? Is it becauſe, that as their fathers have made a league with Hell, Death, and the Devil, freely giving themſelves over to a reprobate ſenſe, to work all maner of wickedneſs with gree<g ref="char:EOLhyphen"/>dineſs, ſo their children being kept from Chriſtendom, as being free from the Tripertire Bond in Bap<g ref="char:EOLhyphen"/>tiſm, might more ſwiftly run to the devil after them; the contempt of this Head of Chriſts Ordinance, and the practice of the Church Ca<g ref="char:EOLhyphen"/>tholick
+<pb n="54" facs="tcp:37089:28"/>imbitters my charity to<g ref="char:EOLhyphen"/>wards them, while they ſhow ſo little love to their young ones.</p>
+            <p>Know this for certainty how that Gods Ordinance is a Teacher which ſtints us from running into groſs ſin, which as Infants, while Infants, are uncapable to commit, ſo after their mature age, as oft re<g ref="char:EOLhyphen"/>ceiving lifts up their hearts from earth to heaven, ſo this bond paſt in Baptiſme, and their calling to minde their ſolemn Covenant paſt at Font, draws them from the love of the world, to love our Lord God who made the world, and our Lord Jeſus who died for our ſins, and roſe for our righteouſneſs.</p>
+            <p>The third thing to be enquired after is, why the Church, <hi>but we are grown in this age wiſer then the Church,</hi> why the Church appoints Sureties at the Font, and three at the leaſt.</p>
+            <list>
+               <pb n="55" facs="tcp:37089:28"/>
+               <item>1. For that the Infant is to paſs promiſe by the three Sureties to forſake three, the World, Fleſh, and Devil.</item>
+               <item>2. To make the baptized co<g ref="char:EOLhyphen"/>ming to years of diſcretion, have more care to hold promiſe with God.</item>
+               <item>3. That if Parents were neglect<g ref="char:EOLhyphen"/>ing, among ſo many, ſome might have a care of the Bond paſt to God in Baptiſm.</item>
+               <item>4. To rub up our memories, and put us in minde, how man is more likely to break Bond with God, then man with man; and therefore in common Contracts there are no more then the Principal and two Sureties, but at the Chriſtening, <hi>the Principal, the Baptized, and three Sureties;</hi> and to countenance this commendable cuſtom, <hi>the Council of Mentz</hi> in the ninth Century or<g ref="char:EOLhyphen"/>dained Godfathers to be, and to
+<pb n="56" facs="tcp:37089:29"/>attend, and ſee that their ſpiritual children be brought up in the true Faith.</item>
+               <item>4. And now in the fourth place, Theſe Sureties of the Baptized In<g ref="char:EOLhyphen"/>fant commonly ſtand over againſt the Church Door, and there this Sacrament of Baptiſme uſually is adminiſtred. O! our Mother the Church, there ſet the Font, that you may know how Baptiſm is the Door lets us into Gods Church, by it we enter in into our Maſters Houſe, <hi>the Church Militant.</hi>
+               </item>
+               <item>5. But not in the fifth place, it is enquired whether Baptiſm be of abſolute neceſſity. To this I an<g ref="char:EOLhyphen"/>ſwer, No, for we have this Sa<g ref="char:EOLhyphen"/>crament inſtead of Circumciſion, enjoyned by the Lord, not to be adminiſtred till the eighth day; and I am confident, that as all the children which died before the eighth day were not damned, no
+<pb n="57" facs="tcp:37089:29"/>more thoſe who dye unbaptized; but I will end with Saint <hi>Bernard,</hi> who ſaith, <hi>Non privatio, ſed contem<g ref="char:EOLhyphen"/>ptus damnat;</hi> it is not the want, but contempt that damns, &amp; the default being in the Parents, let them fear the puniſhment; and ſince the neg<g ref="char:EOLhyphen"/>lect is dangerous, let us be ſure, that there be no defect in us, but let us bring our young to be waſhed in this <hi>Jordan.</hi>
+               </item>
+               <item>6. And ſo I come to the ſixth thing conſiderable, <hi>viz.</hi> What good is got by Baptiſm, <hi>ne parum quidem,</hi> yet we will begin at the leaft: <hi>Novum Nomen,</hi> a new name, now chriſtened, you have two names, the one is <hi>nomen naturae,</hi> the other <hi>nomen gratiae,</hi> commonly cal<g ref="char:EOLhyphen"/>led, Sirname, Chriſten name. But objected, what am I bettered? Much if thou have wit or grace; thy two names put thee in minde of thy two natures; and with <hi>Rebesca</hi>
+                  <pb n="58" facs="tcp:37089:30"/>that there are two ſtrugling within the womb of thy heart, Nature and Grace, Old Man, New Man; the Fleſh, the Spirit; yea, thy <hi>Sir<g ref="char:EOLhyphen"/>name</hi> puts thee in minde of thy ſin<g ref="char:EOLhyphen"/>ful Generation, thy <hi>Chriſten Name</hi> of thy Spirituall Regenration by the Grace of our Lord Jeſus; thus whileſt the one makes me fear, the other puts me in hope; whileſt the one tells me, I am of a ſinful ſeed, and to ſuffer, and the other com<g ref="char:EOLhyphen"/>forts me, aſſuring me I am a Mem<g ref="char:EOLhyphen"/>ber of Chriſt Jeſus.</item>
+            </list>
+            <p n="2">2. The ſecond good got, is re<g ref="char:EOLhyphen"/>corded, <hi>Gal.</hi> 3.27. I can aſſure you it is a very comfortable place, and a ſpur to prick every Chriſtian on to baptize their yong ones; the words are theſe, <hi>Ye who are baptized have put on Chriſt,</hi> you are hapt with him as with a garment; he is the Robe of Righteouſneſs all over-ſpread<g ref="char:EOLhyphen"/>ing the late Biptized, you are arm<g ref="char:EOLhyphen"/>ed
+<pb n="59" facs="tcp:37089:30"/>with his as with a coat of mail, able to bear off all the fiery aſſualts of the devil. Saith the Spouſe in the Canticles, I have put off, how can I put on again. Being baptized we put on Chriſt with a reſolve never to put him off any more; and it is this Church Cognizance, whereby we are known to be of the Houſe<g ref="char:EOLhyphen"/>hold of God.</p>
+            <p>The third good got is, <hi>Admittance into Heaven,</hi> and hence ſayes our Saviour, <hi>Except you be born again of Water and the Spirit, you cannot enter into the Kingdom of Heaven.</hi> The Baptiſm of Water aſſures the Vi<g ref="char:EOLhyphen"/>ſible Church, that you are made Members of Chriſts Congregation here; the Baptiſme of the Spirit when you are of ripe years, aſſerts you ſhall be Members of the inviſi<g ref="char:EOLhyphen"/>ble Church hereafter; our outward Baptiſme ingrafts you into the Church Militant, an Ordinance of
+<pb n="60" facs="tcp:37089:31"/>Grace conducting to the Baptiſme of the Spirit, being an aſſurance you ſhall be admitted into the fellow<g ref="char:EOLhyphen"/>ſhip of the Church Triumphant; if wilfully you ſleight this, 'tis not probable how God will beſtow upon you the other; the laying hold on this Ordinance within hu<g ref="char:EOLhyphen"/>mane reach, puts me in hopes to at<g ref="char:EOLhyphen"/>tain that other onely conferred by the Divine Power; when I ſcorn<g ref="char:EOLhyphen"/>fully neglect what proffered by Gods Church, what hopes have I to attain that without which I can<g ref="char:EOLhyphen"/>not come to Gods Kingdom; ſince you cannot enter into Gods King<g ref="char:EOLhyphen"/>dom, except you be born of Water and the Spirit, let us uſe the water, leſt we deprive our ſelves of the hopes we have to acquire Gods Spirit. The words recorded by the Evangeliſt are ſpoke to all of all Sexes, Ages, and ſince the major part are Younglings, there being
+<pb n="61" facs="tcp:37089:31"/>more children then men, let not us diſinherit ſo many Infants to hu<g ref="char:EOLhyphen"/>mour a few Hereticks; hinder not your children from Baptiſm for not having the perfect uſe of reaſon, ſince we are unſure whether theel<g ref="char:EOLhyphen"/>der, believe, but onely by profeſſi<g ref="char:EOLhyphen"/>ion; it were to be wiſhed at one in<g ref="char:EOLhyphen"/>ſtant we might be baptized <hi>flumine, flamine,</hi> with water and the Spirit; but the aged may receive the firſt; want the latter. Let us then who have prayed for the Infant, that he may receive the latter, not debar him from the former. The Catho<g ref="char:EOLhyphen"/>lick Church way is a ſafe way to walk in, and who ſo obſtinately, ſcorns Baptiſme, hath ſmall hopes that the Spirit will land at the ha<g ref="char:EOLhyphen"/>ven, his heart; nay 'tis to be feared that he ſhall never enter into the Kingdom of Heaven. As none in <hi>Rome</hi> could enter into the Temple of Honour, but firſt went thorow
+<pb n="62" facs="tcp:37089:32"/>the Temple of Vertue; ſo none can be admitted into the Kingdom of glory, but ſuch who firſt have had admitttance into the Kingdom of grace. And this Sacrament is the ordinary key, which opens your children the door, that they may enter in by, and may reſt aſſured, this Water Baptiſme takes away the mulct, though not the guilt, the blame, though not the ſtain; and that the Infant baptized who dies before it have <hi>uſum rationis,</hi> to ſin with a free will, ſhall certainly de<g ref="char:EOLhyphen"/>part in peace to a place of immor<g ref="char:EOLhyphen"/>tal bliſs, whither God of his mer<g ref="char:EOLhyphen"/>cies ſend all of us.</p>
+            <p>And ſo I come to the ſixth and laſt thing to be diſcuſt upon, Whether it be lawful to baptize In<g ref="char:EOLhyphen"/>fants; in diſcourſing upon this con<g ref="char:EOLhyphen"/>troverſie, I ſhall firſt ſet down the Adverſaries Arguments againſt Baptiſme and by the help of my
+<pb n="63" facs="tcp:37089:32"/>God, the anſwer to every of them, then give you my Reaſons, why Infants ought to be baptized; laſt<g ref="char:EOLhyphen"/>ly, ſhew you the puniſhments have been enacted to be inflicted upon Anabaptiſts. And becauſe this age is deſirous to read much in few lines, therefore I will rather offer the courteous Reader matter then words; and as much as I can, match ſolidity and brevity both together; and with the one win the ear of the more judicious, and by the other prove my ſelf not much to preju<g ref="char:EOLhyphen"/>dice ſuch as have high employ<g ref="char:EOLhyphen"/>ments.</p>
+            <p>The Anabaptiſts the more hope<g ref="char:EOLhyphen"/>fully to lay their foundation againſt Infants Baptiſme, have firſt cun<g ref="char:EOLhyphen"/>ningly gone about to prove rebap<g ref="char:EOLhyphen"/>tizing lawful, which <hi>Block</hi> I pur<g ref="char:EOLhyphen"/>poſe to remove out of our way, that ſo we may the better anſwer all they object againſt baptizing In<g ref="char:EOLhyphen"/>fants.</p>
+            <pb n="64" facs="tcp:37089:33"/>
+            <p> To countenance their cauſe they labour to prove out of the <hi>Acts,</hi> That thoſe whom <hi>John</hi> baptized that had not heard of the Holy Ghoſt, <hi>Paul</hi> again baptized.</p>
+            <p>To this hear what St. <hi>Auguſtine</hi> ſaith, <hi>Diſcipulos Joannis iterum bap<g ref="char:EOLhyphen"/>tizatos fuiſſe, non iterato Baptiſmate;</hi> for as <hi>Philip Melancton</hi> ſaith, <hi>Ioannis Baptiſmum,</hi> The Baptiſme of <hi>John</hi> was <hi>ſignum mortificationis; Chriſti Baptiſmum, ſignum vivificationis;</hi> for to Chriſts was added <hi>condonatio peccatorum, &amp; oportuit iterum bapti<g ref="char:EOLhyphen"/>zari, qui Ioannis Baptiſmo loti erant, quo certi eſsent, ſe jam conſecutos eſſe remiſsionem peccatorum:</hi> To Chriſts Baptiſm was added remiſſion of ſin, and it was moſt might and right; for thoſe who were waſhed with <hi>Iohns</hi> Baptiſme, to receive alſo Chriſts Baptiſm, that ſo they might be enſured of remiſſion of ſin, by being baptized into the Faith.. of
+<pb n="65" facs="tcp:37089:33"/>our Lord Jeſus. The Anabaptiſt let him produce any ſo baptized by <hi>Iohn,</hi> and we ſhall not refuſe them Chriſts Baptiſm, till ſuch a one be produced, this Argument muſt be ſhouldered out.</p>
+            <p>We have not now to do either with the Novatians, who were admitted into the Church without any new Baptiſm, or yet with the Hereticks ſprung from the corrupt lungs of <hi>Samoſatenus,</hi> who were excluded from being members of the Church Catholick till anew baptized, be<g ref="char:EOLhyphen"/>cauſe they denied Fundamentalls; but with Anabaptiſts, who will allow no Infant to be baptized; and yet this Hereſie the very Here<g ref="char:EOLhyphen"/>ticks called the Donatiſts, and Pe<g ref="char:EOLhyphen"/>lagians, cried down. It is at leaſt a thouſand years ſince this execrable Tenet ſprang up, and the new Fo<g ref="char:EOLhyphen"/>menters of it in <hi>Germany</hi> were <hi>Ni<g ref="char:EOLhyphen"/>cholas Stock, Iohn of Leiden,</hi> and
+<pb n="66" facs="tcp:37089:34"/>
+               <hi>Knipperdolin,</hi> but now it is ferried over into <hi>England,</hi> and by ſuch bloody Saints, who will either force us to loſe our eſtates, if not lives, or elſe put in peril our Infants ſouls; hard chap-men who would force upon us ſo hard a bargain. I need not recount unto you the ſe<g ref="char:EOLhyphen"/>veral forts of Anabaptiſts, fourteen in all, <hi>Alſtedius</hi> hath ſaved me this labour; nor will I blur my paper with their abominable Opinions, leſt my making them too publickly known, might move the ſpiders to ſuck in poiſon whence the labori<g ref="char:EOLhyphen"/>ous Bees might gather honey; yet ſince our Land is infeſted with theſe Locuſts, who contumeliouſly againſt the Tenet of the Church Catholick maintain it is unlawfull to baptize children, for this cauſe, give me leave to ſhew you the wea<g ref="char:EOLhyphen"/>pons they fight againſt us with, and then diſarm them: what are theſe
+<pb n="67" facs="tcp:37089:34"/>weapons but ſo many Arguments which they uſe wherewith to a<g ref="char:EOLhyphen"/>buſe us.</p>
+            <p>
+               <hi>Caſſander, pag.</hi> 740. hath quoted their champion reaſon; this they ſay, <hi>Non ſunt capaces Baptiſmi, quod doceri &amp; profiteri nequeant,</hi> Children are not capable of Baptiſm, that are not capable to learn and believe.</p>
+            <p>To this we anſwer, that the ground of their Argument is taken out of <hi>Matthew</hi> 28.19, 20. where it is ſaid, <hi>Go and teach all Nations, Baptizing them in the Name of the Father, and the Son, and the Holy Ghoſt; teaching them to obſerve all things which I have commanded you.</hi>
+            </p>
+            <p>Upon this foundation they reer up this building, that teaching muſt go before baptizing; my anſwer, The words in the Original are not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> teach, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is to ſay, make Diſciples, which infants in their ſwadling belts may
+<pb n="68" facs="tcp:37089:35"/>attain to, by being by Baptiſme ad<g ref="char:EOLhyphen"/>mitted into Chriſts School, while their Sureties give in their names, and by this Sacrament record them amongſt Chriſts Diſciples. And again it is plain from the Text, that baptizing uſhers in teaching, as ap<g ref="char:EOLhyphen"/>pears verſe 20. <hi>Teaching them to ob<g ref="char:EOLhyphen"/>ſerve all things:</hi> to which they have ſeveral conducts, their Chriſtian Parents inſtructing, &amp; the Biſhops Confirmation, with prayers for them, and their growth in the my<g ref="char:EOLhyphen"/>ſtery of the faith of our Lord Jeſus.</p>
+            <p n="2">2. We might anſwer, that all the world but a few were Jews and Gentiles, ignorant generally of Chriſt and Chriſtianity, and deny<g ref="char:EOLhyphen"/>ing the Saviour of our ſouls; now if we were to go to ſuch, as are now the Indians, teaching muſt pre<g ref="char:EOLhyphen"/>cede baptizing, but you know what is ſaid, <hi>The Covenant is made to you, and to your ſeed.</hi>
+            </p>
+            <p n="3">
+               <pb n="69" facs="tcp:37089:35"/> 3. The Anabaptiſts might as well ſay, that ſince it is ſaid, <hi>Mark</hi> 1.25. Repent and believe, that repentance goeth before faith, which is as known an untruth, as that preach<g ref="char:EOLhyphen"/>ing to Infants muſt neceſſarily pre<g ref="char:EOLhyphen"/>cede baptizing of them. And thus ſince the ſetting repentance before faith bindes me not to believe how faith is not before repentance. Se<g ref="char:EOLhyphen"/>condly, ſince theſe words, <hi>Mat.</hi> 28. were ſpoke concerning people un<g ref="char:EOLhyphen"/>converted, and therefore firſt to be taught. Thirdly, ſince all enjoyn<g ref="char:EOLhyphen"/>ed, is firſt make diſciples, then bap<g ref="char:EOLhyphen"/>tize, and after teach. This conſi<g ref="char:EOLhyphen"/>dered makes the Anabaptiſts Argu<g ref="char:EOLhyphen"/>ment weak and invalid.</p>
+            <div n="2" type="objection">
+               <head>The Anabaptiſts 2. Objection.</head>
+               <p>
+                  <hi>Signum frustrae datur non intelli<g ref="char:EOLhyphen"/>genti,</hi> ſay they, it is a vain and foot<g ref="char:EOLhyphen"/>liſh cuſtom to give the Sacrament to ignorant Infants, that know no<g ref="char:EOLhyphen"/>thing of the vertue of it, nor what it means.</p>
+               <pb n="70" facs="tcp:37089:36"/>
+               <p> Give me leave to tell theſe Ana<g ref="char:EOLhyphen"/>baptiſts what anſwer a late Reve<g ref="char:EOLhyphen"/>rend Doctor of our Church gave to this; ſaith he, Theſe gyant-like fight with God, for if this Argu<g ref="char:EOLhyphen"/>ment were in force, it would be available to overthrow the circum<g ref="char:EOLhyphen"/>ciſing of Children, inſtituted in the Old Law by God himſelf, as In<g ref="char:EOLhyphen"/>fants Baptiſme in the New. For they then knew no more what Cir<g ref="char:EOLhyphen"/>cumciſion meant, then theſe now what Baptiſme.</p>
+               <p>Secondly, Theſe bold Hereticks by this Argument do ſeem to con<g ref="char:EOLhyphen"/>demn our Lord and Saviour, as if in vain he laid his Hands upon children and bleſſed them, ſeeing they knew not what he meant.</p>
+               <p>Thirdly, Phyſick is given to the Patient ſometimes when ſenſeleſs, and doth him good; ſo though children perceive not what they re<g ref="char:EOLhyphen"/>ceive, yet may get good by recei<g ref="char:EOLhyphen"/>ving
+<pb n="71" facs="tcp:37089:36"/>this Seal of Grace. And thus ſince health may be reſtored by adminiſtred phyſick, when the Pa<g ref="char:EOLhyphen"/>tient is ſenſeleſs: ſince Chriſt bleſ<g ref="char:EOLhyphen"/>ſed thoſe whoſe young years did impede their preſent cognition of a Bleſſing: Laſtly, ſince God or<g ref="char:EOLhyphen"/>dained circumciſion for children of eight dayes old, and not in vain; this conſidered, makes invalid this ſecond Argument, unleſs theſe Anabaptiſts will condemn all Phy<g ref="char:EOLhyphen"/>ſicians who give phyſick to Pati<g ref="char:EOLhyphen"/>ents in a trance; or will inveigh againſt the Lord who ordered cir<g ref="char:EOLhyphen"/>cumciſion on the eight day; or elſe conclude our Savivors bleſſing yong children was in vain.</p>
+            </div>
+            <div n="3" type="objection">
+               <head>Their third Objection.</head>
+               <p>Chriſt was not baptized till thirty years of age, <hi>ergo,</hi> Infants ought not to be baptized.</p>
+               <p>To this I anſwer, Baptiſme was not in <hi>eſſe</hi> at Chriſts Birth, but no
+<pb n="72" facs="tcp:37089:37"/>ſooner inſtituted, but he was bapti<g ref="char:EOLhyphen"/>zed; though not, as one ſaith, in his infancy, yet in the infancy of Baptiſm; and becauſe he lived in the time of the Law, he was cir<g ref="char:EOLhyphen"/>cumciſed the eighth day; and ſo ſoon as the New Law was pro<g ref="char:EOLhyphen"/>claimed, baptized according to the Goſpel.</p>
+               <p>Again, the example of Chriſt bindes not without a precept; for then we ſhould, as Chriſt did, one<g ref="char:EOLhyphen"/>ly receive the Lords Supper at the cloſure of our life, and all our life time, till then, abſtain from the Bleſſed Communion.</p>
+               <p>And now all conſidered, the Anabaptiſts Argument is invalid. And ſince our Saviour binds us not for all his example from Commu<g ref="char:EOLhyphen"/>nion till our dying. Secondly, ſince he received this Sacrament ſo ſoon as it was inſtituted. Thirdly, ſince it was impoſſible for him to
+<pb n="73" facs="tcp:37089:37"/>receive a Sacrament before ordain<g ref="char:EOLhyphen"/>ed: Theſe ſeriouſly conſidered, blunt the edge of the Anabaptiſts argument. And though they would ſeem to give us a great down-right Blow, yet have drawn from us no Blood.</p>
+            </div>
+            <div n="4" type="objection">
+               <head>Fourth Objection.</head>
+               <p>Their fourth Objection in this: You have no expreſs place in Scri<g ref="char:EOLhyphen"/>pture that injoyns Miniſters to Ba<g ref="char:EOLhyphen"/>ptize Children; and man ought not to have a Mouth to ſpeak for that, which God alloweth not a Pen to write for.</p>
+               <p>
+                  <hi>Anſw.</hi> This Gordian knot long ſince hath been unlooſed. I mean divers Doctors of our Church have reſolved this doubt; it is almoſt impoſſible for me to adde one mite into their Treaſury: yet to recol<g ref="char:EOLhyphen"/>lect in ſhort, what hath been ſaid at large, is neither diſhonourable to the Writer, not will be unſatiſfactory
+<pb n="74" facs="tcp:37089:38"/>to the Reader.</p>
+               <p>I anſwer then, though we finde it not ſet down <hi>totidem verbis,</hi> in ſo many words, Go and Baptize In<g ref="char:EOLhyphen"/>fants, yet <hi>Mark</hi> 10. ver. 14. tells, how unto little children belong the Kingdome of Heaven; which muſt be underſtood of Infants, be<g ref="char:EOLhyphen"/>cauſe, as followes; Chirſt tooke them up in his armes and bleſſed them.</p>
+               <p>And it is a ſound Argument, <hi>à majori ad minus,</hi> that if heaven be<g ref="char:EOLhyphen"/>long to them, then the means to be aſſoiled of their ſin, which other<g ref="char:EOLhyphen"/>wiſe would obſtruct their going to heaven, into which no uncleane thing can enter: and the means at their Age <hi>in viacognita,</hi> can be no other but Baptiſm. And of this judgement were the Primitive Fa<g ref="char:EOLhyphen"/>thers, and are our now Modern Writers, as alſo all the now Papiſts and Conformiſt Proteſtants, and
+<pb n="75" facs="tcp:37089:38"/>the Presbyterians, all concur<g ref="char:EOLhyphen"/>ing in the neceſſity of Baptizing children; building the Structure of their Salvation in part, upon this Foundation.</p>
+               <p n="2">2. We take <hi>John</hi> 3. ver. 5. to be a good Scripture ground for Bapti<g ref="char:EOLhyphen"/>zing of Infants; where is ſaid, <hi>Ve<g ref="char:EOLhyphen"/>rily, verily, except a man be born of water and the Spirit, be cannot enter into the Kingdome of Heaven.</hi> Not without the one, into the kingdom of Grace; not without both, into the kingdom of Glory. I ſpeak ſo far as is revealed to us, we dare give no farther a warrant, then God a precept, and muſt tye our ſelves to the revealed means, though not our God at all times to ſuch tearms, as he hath revealed himſelf to us. But this place of Scripture, the Anabaptiſts tell us, is to be un<g ref="char:EOLhyphen"/>derſtood of men of years, not of Children who are of leſs age then
+<pb n="76" facs="tcp:37089:39"/>the tenth of one year. As a reve<g ref="char:EOLhyphen"/>rend Doctor writes, they might as well put in an Exception againſt <hi>women,</hi> no more named then Chil<g ref="char:EOLhyphen"/>dren. This, they dare not; that, they ought not: for our Saviour in that place ſpeaks of man <hi>Specifice,</hi> I mean of mankinde, of every per<g ref="char:EOLhyphen"/>ſon ſprung from <hi>Adam,</hi> which ſince the youngeſt is defiled as well as the eldeſt, as appears by <hi>Pſal.</hi> 51.5. therefore Infants, while Infants, ought to have the Medicine Bap<g ref="char:EOLhyphen"/>tiſme adminiſtred to them as well as if elder people; eſpecially conſi<g ref="char:EOLhyphen"/>dering it is the onely Church cure to free ſuch who are conceived in ſin and born in iniquity, from the guilt of Original ſin: of which <hi>Or<g ref="char:EOLhyphen"/>dinance</hi> I take new born Babes to be capable, though not <hi>Activè,</hi> yet <hi>Paſsivè;</hi> for in all the work they are paſſive; being prayed for, and beleſſed, and waſhed, and none can
+<pb n="77" facs="tcp:37089:39"/>doubt but capable of this Seal of grace at thoſe young years, as well as the children under the old Law were capable of Circumciſion at eight dayes old.</p>
+               <p>And this is that <hi>Murus Aheneus,</hi> that Brazen Wall which all the Anabaptiſts are never able to leap over, not yet lay flat; but under this Analogy our Children will finde a perpetual ſhelter for ba<g ref="char:EOLhyphen"/>ptiſme in the greateſt ſtorm of Ana<g ref="char:EOLhyphen"/>baptiſts.</p>
+               <p n="3">3. <hi>Acts</hi> 16. 33. wintneſſes how the Jaylor was baptized <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and all that were his, his children then were not to be ex<g ref="char:EOLhyphen"/>cluded; or if they had been to have been debarred, doubtleſs our Apo<g ref="char:EOLhyphen"/>ſtle would have entred his Caveat againſt Infants Baptiſme, and as he ſaid, 1 <hi>Cor.</hi> 1. 14. <hi>I thank God I ba<g ref="char:EOLhyphen"/>ptized none of you ſave Criſpus and Gaius, as alſo the houſhold of Stepha<g ref="char:EOLhyphen"/>nus;</hi>
+                  <pb n="78" facs="tcp:37089:40"/>ſo <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere he would have told us, how all of the Jaylors houſe<g ref="char:EOLhyphen"/>hold he had baptized but the young ones, but his non-excepti<g ref="char:EOLhyphen"/>on is a ſure confirmation, that old and young were there, and then ba<g ref="char:EOLhyphen"/>ptized.</p>
+               <p n="4">4. I anſwer how the Anba<g ref="char:EOLhyphen"/>ptiſts can bring no expreſs place of Scripture, commanding us to give the Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per to women, or for changing the Sabbath from the ſeventh to the firſt day of the week; nor finde they the Creed word by word in Gods word: nor yet, the words Trinity and Unity, and Unity in Trinity; and yet they acknow<g ref="char:EOLhyphen"/>ledge a Trinity in Unity, believe the Creed, obſerve the Lords day, and give the Communion to Wo<g ref="char:EOLhyphen"/>men, why then not Baptiſme to Children, for which we have fair evidence, how it belongs unto them.</p>
+               <pb n="79" facs="tcp:37089:40"/>
+               <p> And now the premiſes conſide<g ref="char:EOLhyphen"/>red, how that many things are ap<g ref="char:EOLhyphen"/>proved of for Divine Truths, not expreſt at large in ſo many lines of the Text. Secondly, ſince whole families were baptized, our Apo<g ref="char:EOLhyphen"/>ſtle telling us whom he did not ba<g ref="char:EOLhyphen"/>ptize, but entering no Caveat a<g ref="char:EOLhyphen"/>gainſt Infants Baptiſme. Thirdly, Since Scripture tells us, this is the way for man or mankinde to enter into the kingdom of Heaven, by being born of Water and the Spi<g ref="char:EOLhyphen"/>rit: this water charter being gran<g ref="char:EOLhyphen"/>ted by the God of heaven to all men of what age of ſex upon earth. Fourthly, ſince our Saviour aſſures us heaven belongs to our young children, and that at their years there is no way to free them from their birth-ſin, and enſure them heaven but by Baptiſm; with theſe few ſmooth ſtones taken out of the bag of the ſhepheard of our ſouls,
+<pb n="80" facs="tcp:37089:41"/>we have knockt in the forehead the Anabaptiſts great grand <hi>Goliah</hi> argument, and made it of as little force as <hi>Samſon</hi> when his locks were ſhaven.</p>
+               <p>And now to paſs from our ad<g ref="char:EOLhyphen"/>verſaries moſt material Objections to our Arguments, which are as ſo many Champions to defend the baptizing Infants, and my firſt is this.</p>
+               <p>This ſalve was never forbid us to apply to our Infants ſores, who are all over wounded with original ſin by <hi>Adam;</hi> let the Anabaptiſts point out where God forbids it and we will leave it: methinks it had been time enough to cry out of us for baptizing children, when they had ſhewed us Chriſts prohi<g ref="char:EOLhyphen"/>bition; but where there is in Scri<g ref="char:EOLhyphen"/>pture ſo univerſal a ſilence, I know no cauſe why they ſhould make ſo open an out-cry; we much deſire
+<pb n="81" facs="tcp:37089:41"/>they would ceaſe to quarrel with us on earth, till the God of hea<g ref="char:EOLhyphen"/>ven declare for them. They tell us how we have no expreſs place in Scripture to juſtifie what we do; we tell them, how they have not the leaſt appearance in any text in Gods word which contradicts what we do: it were wiſdome in them, to let us without diſturbance baptize our Infants, till they finde a Law to condemn us, or a Goſpel to forbid us.</p>
+            </div>
+            <div n="2" type="argument">
+               <p>The ſecond Argument.</p>
+               <p>Our ſecond Argument to juſtifie baptizing Infants is this; Our Do<g ref="char:EOLhyphen"/>ctrine is Catholick, and was practi<g ref="char:EOLhyphen"/>ſed both in the Primitive Church, as alſo till this day in all Nationall Churches Chriſtian. You know what is ſaid, 2 <hi>Theſ.</hi> 2.15. <hi>Hold faſt the Traditions which I have deliver<g ref="char:EOLhyphen"/>ed unto you, whether by word or our Epiſtle.</hi> Now this Church Do<g ref="char:EOLhyphen"/>ctrine
+<pb n="82" facs="tcp:37089:42"/>of baptizing Children being an Apoſtolical Tradition, we hold it warranted by Gods word, and a Doctrine not to be oppugned; eſpecially conſidering God hath promiſed to be with his Church unto the end of the world. And though the Churches of <hi>Aſia</hi> have their golden Candleſticks remo<g ref="char:EOLhyphen"/>ved, and are fallen from the Faith, yet the Univerſall Church never erres: and of this judgement are all our Learned Divines, nor dare our Adverſaries make the leaſt Mutiny againſt it, if the queſtion ſeriouſly and ſoberly be propounded to them. And now the Task I have undertaken, is to prove Infants Baptiſme a Church Tenet all the time of the Primitive Church; for ſince it is undeniable, for practiſed by the Greek and Latin Churches, witneſs the Churches in all <hi>Graecia</hi> where there are Chriſtians; as
+<pb n="83" facs="tcp:37089:42"/>alſo in <hi>Syria,</hi> in <hi>India,</hi> in <hi>Muſco<g ref="char:EOLhyphen"/>via,</hi> in <hi>Ethiopia.</hi> And as for the Churches in this part of the world; what I have delivered will appear to be truth, by the confeſſion of the Engliſh, Scottiſh, and Iriſh Churches: by the practice of the Romiſh Church, to which I may adjoyne as ſupernumerated up to my hand, the <hi>Auguſtine</hi> Confeſ<g ref="char:EOLhyphen"/>ſion, the Bohemian, the Bel<g ref="char:EOLhyphen"/>gick, the Helvetian, the Saxon, with many moe, all aſſerting In<g ref="char:EOLhyphen"/>fants Baptiſm; for of ſuch (as ſaith our Saviour) are the Kingdome of Heaven. The covenant is made to them, doubtleſs then the Seal of that covenant, which is Baptiſme, muſt belong unto them. Of which opinion was <hi>Tertullean,</hi> who lived within leſs then an hundred years after St. <hi>Johns</hi> death.</p>
+               <p>But now, <hi>Deo juvante,</hi> by Gods aſſiſtance, I mean to make my word
+<pb n="84" facs="tcp:37089:43"/>good, and to prove by the practice of the Primitive Fathers, how bap<g ref="char:EOLhyphen"/>tizing Infants in the four firſt Cen<g ref="char:EOLhyphen"/>turies after Chriſts time and his Apoſtles, was maintained lawful.</p>
+               <p>
+                  <hi>Iraeneus</hi> in his ſecond Book and 39. againſt Hereticks, ſaith, <hi>Omnes venit Chriſtus per ſemetipſum ſalvare, omnes inquam, qui per eum renaſcun<g ref="char:EOLhyphen"/>tur in Deum, et pueros, et juvenes, et ſeniores, et parvulos, et infantes.</hi> Chriſt came to ſave all that were born of God, even Infants born a new by Baptiſm. This holy Writer lived ſixty years after the Apoſtles.</p>
+               <p>St. <hi>Origen,</hi> hear him faithfully tranſlated; <q>Eccleſia ab Apoſtolis Traditionem accepit, &amp; jam par<g ref="char:EOLhyphen"/>vulis Baptiſmum dare; porro air, propterea baptizantur, quia per Baptiſmi Sacramentum nativita<g ref="char:EOLhyphen"/>tis ſordes deponuntur.</q> The Church (ſaith he) received this Tra<g ref="char:EOLhyphen"/>dition from the Apoſtles, even this,
+<pb n="85" facs="tcp:37089:43"/>to baptize Infants; moreover, as he aſſerts, for this cauſe, they are admitted to this Sacrament; that thereby, the foul ſpots in their Nativity may be waſhed away. This Father flouriſhed in the eighty ſeventh year from the death of St. <hi>John</hi> who out-lived all the Twelve.</p>
+               <p>St. <hi>Cyprian</hi> in his third Book and eighth Epiſtle, thus writes, <q>A Baptiſmo prohibere Infans non debet, qui recens natus nil pec<g ref="char:EOLhyphen"/>cavit; niſi quod ſecundum Adam, carnaliter natus.</q> None ought to deny an Infant Baptiſme, for, ſaith the Holy Father, he being new born, hath no ſin, ſave the guilt of <hi>Adams</hi> to anſwer for. This Father lived in the 158. year after the death of the Apoſtles.</p>
+               <p>St. <hi>Gregory Nazianzen</hi> next ſteps in to defend Infants Baptiſme, and to give you it in our Latin tongue, more ſuitable to the capacity of
+<pb n="86" facs="tcp:37089:44"/>many readers, he asks the queſtion, "Num Infantes Baptizemus? It is anſwered, <q>Maxime quidem, ſi periculum quoddam imminet; melius eſt enim nondum ratio<g ref="char:EOLhyphen"/>nis compotes ſanctificari, quam non ſignatos, &amp; initiatos vita excedere.</q> It is the judgement of this Father, that we may juſtifie to baptize Infants if in the danger of death; yea, he fully deter<g ref="char:EOLhyphen"/>mines the controverſie, and poſi<g ref="char:EOLhyphen"/>tively ſets down, how it is better, though they want the uſe of reaſon, ſo to make them holy, than to ſuf<g ref="char:EOLhyphen"/>fer them to die without this Seal of Grace; and mark, how by being made holy, or ſanctified, is meant being baptized, as here eaſily you may perceive, but Doctor <hi>Hamond</hi> hath perſpicuouſly made it appear, in his anſwer to Mr. <hi>Tombes.</hi> This St. <hi>Gregory</hi> lived two hundred and ſeventy years after the laſt of the twelve.</p>
+               <pb n="87" facs="tcp:37089:44"/>
+               <p> St. <hi>Jerome,</hi> let us now hear what he can ſay, <q>Infantes bap<g ref="char:EOLhyphen"/>tizantur, ut eis peccata in Ba<g ref="char:EOLhyphen"/>ptiſmate dimittantur.</q> Infants are baptized, that ſo they may be aſſoiled of their ſin by Baptiſme, he means their birth-ſin; and therefore without all doubt, a moſt needfull work we impoſe upon all Parents, to haſten the Chriſtening or Baptizing of their Children. This Holy Father lived in the year two hundred and eighty after the Apoſtles.</p>
+               <p>St. <hi>Chriſoſtom</hi> is as good a wit<g ref="char:EOLhyphen"/>neſs for us as any of theſe, we may finde his teſtimony recorded in his Homily <hi>de Baptizatis.</hi>
+                  <q>Hac de cauſa, ait, &amp; jam Infantulos Ba<g ref="char:EOLhyphen"/>ptizamus, ut non ſint coinquina<g ref="char:EOLhyphen"/>ti peccato, ut iis addatur ſan<g ref="char:EOLhyphen"/>ctitas, juſtitia, adoptio, haeredi<g ref="char:EOLhyphen"/>tas, fraternitas Chriſti, ut ejus membra ſint omnes.</q> We ba<g ref="char:EOLhyphen"/>ptize
+<pb n="88" facs="tcp:37089:45"/>young children, ſaith Saint <hi>Chryſoſtom,</hi> that they may not be polluted with ſin, that there may be added to them holineſs, righ<g ref="char:EOLhyphen"/>teouſneſs, adoption, a right of heir<g ref="char:EOLhyphen"/>ſhip, and to be the brothers of Chriſt; yea, to be made his mem<g ref="char:EOLhyphen"/>bers: yea, and by this means they are made as the Holy Father tells us, <hi>the Temples of the Holy Ghoſt.</hi> And thus you ſee of how high con<g ref="char:EOLhyphen"/>cernment it is to baptize Infants, by vertue of which Sacred Ordi<g ref="char:EOLhyphen"/>nance, they are not only aſſoiled of their ſin by <hi>Adam,</hi> but have con<g ref="char:EOLhyphen"/>ferred upon them Gods grace; with which the Anabaptiſts, it ſeems are loath at young years to be acquainted: and if they conti<g ref="char:EOLhyphen"/>nue in thoſe damnable tenents, pre<g ref="char:EOLhyphen"/>judicial to all government in Church and State; as hitherto they have done; then I dare ſay, that as they refuſed to be made viſible
+<pb n="89" facs="tcp:37089:45"/>members by Baptiſme in the Church Militant, its to be feared God will never beſtow on them true repentance whereby they might be enſured to be members of the Church Triumphant.</p>
+               <p>But to draw to an head, you ſee how large a talent of Gods grace in the judgement of this holy Fa<g ref="char:EOLhyphen"/>ther doth Baptiſm put Infants into a poſſeſſion of; of all which Sacred Riches, the Anabaptiſts like ſtrong thieves labour to rob them: but thoſe who ſtick not to imbrew their arms up to the elbows in the blood of the Lords anointed, will make no conſcience to wrong one of theſe little ones, though their very Angels, as the Evangeliſt tells us, ſtand before the face of their heavenly Father. This Father lived in the 300. Year after the de<g ref="char:EOLhyphen"/>parture of the bleſſed Apoſtles.</p>
+               <p>St. <hi>Auguſtine</hi> in his fourth Book
+<pb n="90" facs="tcp:37089:46"/>and 13. Chapt. againſt the Dona<g ref="char:EOLhyphen"/>tiſts, ſpeaks thus: <q>Quod tenet univerſitas Eccleſiae, cum parvuli Infantes baptizantur, qui certe nondum poſſunt corde credere ad juſtitiam, &amp; ore confiteri ad ſa<g ref="char:EOLhyphen"/>lutem, &amp;c. Et tamen nullus Chri<g ref="char:EOLhyphen"/>ſtianorum dixerit eos inaniter baptizari.</q> That which we have received, meaning as an Apoſtoli<g ref="char:EOLhyphen"/>call Tradition, the whole Church of God approveth of: that is, That our young Infants ought to be bap<g ref="char:EOLhyphen"/>tized, who neither can be known by outward appearance to believe and confeſs. Yet in his time, he profeſſes none denied them Bap<g ref="char:EOLhyphen"/>tiſme, or ſaid, in vain it was admi<g ref="char:EOLhyphen"/>niſtred to them. Yet more in <hi>Serm.</hi> 14. he avoucheth: <q>Quod conſue<g ref="char:EOLhyphen"/>tudo Matris Eccleſiae in bapti<g ref="char:EOLhyphen"/>zandis parvulis non ſpernenda eſt.</q> How the cuſtom of bapti<g ref="char:EOLhyphen"/>zing Infants is not to be contemn<g ref="char:EOLhyphen"/>ed.
+<pb n="91" facs="tcp:37089:46"/>"Habet enim iſta parvula aetas "magnum teſtimonii pondus. He tells us, that little age, in which the Church ſuffered ſad Perſecution, we ought to honour her Teſtimo<g ref="char:EOLhyphen"/>ny, as ſhe that did maintaine this Church Doctrine in the time of a Fiery Trial. This Doctor of our Church lived in the 330. Year.</p>
+               <p>And now I muſt tell you, that ſince baptizing Infants is at this Day the practice of all Nationall Churches Chriſtian: nay more, ſince <hi>Tertullian, Iraeneus,</hi> St. <hi>Cypri<g ref="char:EOLhyphen"/>an, Gregory Nazianzen,</hi> St. <hi>Jerome,</hi> St. <hi>Chriſoſtome,</hi> and St. <hi>Auguſtine,</hi> all living in the time of the Primi<g ref="char:EOLhyphen"/>tive Church, aſſert it to be a Tra<g ref="char:EOLhyphen"/>dition Apoſtolical; this makes me admire how ſo much impudence ſhould poſſeſs the Sons of Diſobe<g ref="char:EOLhyphen"/>dience, as to ſend a Defiance to the Church Catholique, for granting Infants that Sacramentall Privi<g ref="char:EOLhyphen"/>leoge,
+<pb n="92" facs="tcp:37089:47"/>of which they have been in poſſiſſion ever ſince the Apoſtles time. But I ſleight the conteſt with ſuch Adverſaries, who when they cannot maintain their Quarrel with men at armes, the Doctors of our Church, take up the cudgels againſt Infants, whoſe right to Ba<g ref="char:EOLhyphen"/>ptiſme is of ſo long a ſtanding, that I find it practiſed before any Coun<g ref="char:EOLhyphen"/>cil did decree it; and yet to ſup<g ref="char:EOLhyphen"/>port the Pillars of this Divine Truth, the Council of <hi>Carthage,</hi> and the Milevitine Council, even both of them accurſe for Hereticks all ſuch as detaine Infants from Baptiſme.</p>
+            </div>
+            <div n="3" type="argument">
+               <p>The third Argument.</p>
+               <p>And now I come to the third Argument, which though I have made ſome uſe of it amongſt my anſwers to ſome objections; yet it is no ſpiritual cowardice to draw out the ſame ſword, ſo I wound the
+<pb n="93" facs="tcp:37089:47"/>adverſary more deeply. <hi>Notum eſt omnibus,</hi> it is notoriouſly known, how we have Baptiſme inſtead of Circumciſion; but very young chil<g ref="char:EOLhyphen"/>dren at eight dayes old under the Law were circumciſed; therefore children under the Goſpel may be baptized: ſuch an Argument, that as before I hinted at, either muſt the Anabaptiſt quarrell with God, for circumciſing thoſe young chil<g ref="char:EOLhyphen"/>dren, or leſe beſhrew himſelf for blaming us who baptize theſe.</p>
+            </div>
+            <div n="4" type="argument">
+               <p>The fourth Argument.</p>
+               <p>God calls on them to come unto him, it is an unmannerly part of thoſe Miniſters, who will not by that door Baptiſme, let theſe young ones into their maſters houſe, the Church, whom himſelf calls upon; would you ſee who theſe are, turn to the Chriſtning Goſpel, <hi>Mark</hi> 10.14. <hi>Suffer,</hi> ſaith he, <hi>little children to come unto me, and forbid them not.</hi>
+                  <pb n="94" facs="tcp:37089:48"/>It ſeems even in our Saviours dayes, there were ſome a little too ſawcy and burſtling againſt this Doctrine of baptizing Infants.</p>
+            </div>
+            <div n="5" type="argument">
+               <p>The fifth Argument.</p>
+               <p>Young children are compre<g ref="char:EOLhyphen"/>hended within the covenant of Grace, witneſs <hi>Gen.</hi> 17.7. where ſaid, <hi>Ero Deus tuus &amp; Seminis tut.</hi> Nay famous is that place, <hi>Acts</hi> 2.39. <hi>There,</hi> ſayes St. <hi>Peter, the promiſe is to you and your ſeed, and to your children.</hi> If God be thus open-handed unto us, and to our young ones, as to paſs his promiſe to them, that he will be their God, aſhamed then may they be who will not let our young ones have the cogniſcence how they are his people.</p>
+            </div>
+            <div n="6" type="argument">
+               <p>The ſixth Argument.</p>
+               <p>Children may be inſpired with the Holy Ghoſt, even in <hi>utero,</hi> in the womb, and it is a Scripture Argu<g ref="char:EOLhyphen"/>ment,
+<pb n="95" facs="tcp:37089:48"/>ſince theſe have received the Holy Ghoſt as well as we, what hinders, meaning they muſt not be hindered Baptiſme; and that a childe may be thus inſpired, witneſs that firſt of <hi>Luke,</hi> where ſaid of <hi>Iohn</hi> the Baptiſt, how he leaped for joy in his mothers womb; and that joy, is a fruit of the ſpirit, <hi>Gal.</hi> 5.22. puts it out of all doubt. But replied, that was mi<g ref="char:EOLhyphen"/>raculous, and ſo it was; yet ſince children may have Faith, I ſee not in my judgement, but how they may receive Baptiſme: and let me tell you, that as children are coun<g ref="char:EOLhyphen"/>ted guilty of ſin, and reputed ſin<g ref="char:EOLhyphen"/>ners, who never commit any one actual ſin, ſo all our children may by counted <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> believers, who yet have no faith of their own, but of their parents. And hereup<g ref="char:EOLhyphen"/>on ſaith St. <hi>Auguſtin, Abſit ut ego di<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am non credentes Infantes.</hi> God for<g ref="char:EOLhyphen"/>bid
+<pb n="96" facs="tcp:37089:49"/>bid that I ſhould ſay, how Infants are no Believers, <hi>Credit in altero qui peccavit in altero.</hi> He be<g ref="char:EOLhyphen"/>lieves by a Proxie, who ſinned by a Deputy, and is reputed for a true believer; and this reputative faith, as a reverend Doctor of our Church well obſerves, is accepted of by the Church on the Infants behalf; and the rather becauſe it is eviden<g ref="char:EOLhyphen"/>ced by the Baptiſme of <hi>Simon Ma<g ref="char:EOLhyphen"/>gus,</hi> and all other Hypocrites, how it is the profeſſion of faith, not the poſſeſſion of it, which is required as the qualification which autho<g ref="char:EOLhyphen"/>rizes the Church to admit the ba<g ref="char:EOLhyphen"/>ptized to this Sacrament; and ſince they cannot ſpeak and make this profeſſion, becauſe they have not as yet the uſe of their tongue; for this cauſe it hath been the practice of the Catholick Church to admit of their ſeconds to profeſs in their name, which well they may, ſince
+<pb n="97" facs="tcp:37089:49"/>as you know I have proved, the promiſe is made to you and-to your ſeed, and to many that are afar off. To conclude, it is an unchriſtian part, for a word ſpeaking to make our little ones want their Charter for Heaven.</p>
+            </div>
+            <div n="7" type="argument">
+               <p>The ſeventh Argument.</p>
+               <p>Heaven belongs to young chil<g ref="char:EOLhyphen"/>dren, <hi>Matth.</hi> 19.14. Are they reckoned among owners of hea<g ref="char:EOLhyphen"/>ven, and ſhall we keep them out of Gods Church on earth? ſhall Chriſt tell us unto them belongeth the kingdom of Heaven; he is an Heretick then that will not by this Sacrament grant them admittance into the kingdom of grace: what? are our young children for heaven, and dare any hinder them for com<g ref="char:EOLhyphen"/>ing into the way which leads unto the kingdome. This Sacrament receiving, ſets you into the very firſt way for heaven, till then we
+<pb n="98" facs="tcp:37089:50"/>are out of the Church way; the ſtreight way to a life everlaſting, whither God for his mercies ſend all of us.</p>
+            </div>
+            <div n="8" type="argument">
+               <p>The eighth Argument.</p>
+               <p>My laſt Argument to convince the Anabaptiſts is taken out of <hi>Acts</hi> the 16. read the 15. and 33. verſes. There is mention made of two whole families that were ba<g ref="char:EOLhyphen"/>ptized, the one <hi>Lydea's,</hi> the other the Jaylors; from the example of the bleſſed Apoſtles we have liber<g ref="char:EOLhyphen"/>ty to baptize all in the family, men, women, and children.</p>
+               <p>And now to give you the colle<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of all; ſince the Apoſtles baptized whole families old and young, 2. Since heaven belongs to young children. 3. Since it is not the poſſeſſion onely, but profeſſion of Faith makes the baptized capa<g ref="char:EOLhyphen"/>ble of Baptiſme. 4. Since chil<g ref="char:EOLhyphen"/>dren are comprehended within the
+<pb n="99" facs="tcp:37089:50"/>Covenant of Grace. 5. Since Chriſt calls on them to come unto him, and ſaith (forbid them not.) 6. Since we have Baptiſme left in<g ref="char:EOLhyphen"/>ſtead of Circumciſion, and that at eight dayes old, that Seal of Grace was in print upon the Infants fleſh. 7. Since we have the practice of all National Churches Chriſtian, to juſtifie our practice, both Greek and Latin, old and modern; yea, all the Fathers which lived in the Primitive Church declaring for us. Laſtly, Since there is no place in Scripture, that in the leaſt ſtands in oppoſition againſt ba<g ref="char:EOLhyphen"/>ptizing young children; but many divine Texts leading us to this bu<g ref="char:EOLhyphen"/>ſineſs. All theſe reaſons ſeriouſly weighed in the ballance of an im<g ref="char:EOLhyphen"/>partial Reader, I hope this will give good ſatisfaction, and encou<g ref="char:EOLhyphen"/>rage us to Anathematize that dam<g ref="char:EOLhyphen"/>nable Doctrine of the Anabaptiſts,
+<pb n="100" facs="tcp:37089:51"/>as alſo to look upon them as Here<g ref="char:EOLhyphen"/>ticks, and murtherers of the Souls of Infants.</p>
+               <p>And now that you may for ever bear in your remembrance, how odious were theſe Heretiques to all Chriſtian Nations; for this cauſe I ſhall preſent to the view of the Judicious Reader, thoſe heavy Pu<g ref="char:EOLhyphen"/>niſhments (by godly Princes) in<g ref="char:EOLhyphen"/>flicted upon thoſe who were obſti<g ref="char:EOLhyphen"/>nate Anabaptiſts.</p>
+               <p n="1">1. To begin at Home: They have been judged to be burned to death, and have ſuffered by Fire in this famous City of LONDON. And let me tell you, that if theſe Fire<g ref="char:EOLhyphen"/>locks of the Devil had not now of late by this preſent Power been ſuppreſſed, they were a blowing that Coal, which would have kin<g ref="char:EOLhyphen"/>dled that Fire which might have conſumed Suburbs and City to hot aſhes.</p>
+               <p n="2">
+                  <pb n="101" facs="tcp:37089:51"/> 2. <hi>Juſtinian</hi> ſpeaking of theſe per<g ref="char:EOLhyphen"/>nicious people, tells us, how in his Dayes they were all condemned to Death. For in truth, if you would take the pains to read all their dam<g ref="char:EOLhyphen"/>nable Tenets, you would ſolemnly ſwear, that it was not fit for them to live amongſt Honeſt men.</p>
+               <p n="3">3. At <hi>Vienna,</hi> that Bulwork of Chriſtendome, the Sentence de<g ref="char:EOLhyphen"/>nounced upon theſe Anabaptiſts was this; That they ſhould be ſowed in Sacks and caſt into a Ri<g ref="char:EOLhyphen"/>ver, and be drowned in the Water, for denying Infants the benefit of that water conſecrated in the Font for Baptizing of them.</p>
+               <p n="4">4. Some States decreed that theſe Anabaptiſts ſhould be behea<g ref="char:EOLhyphen"/>ded. Too noble a Death for ſuch Head-ſtrong Heretiques.</p>
+               <p n="5">5. There was a Law enacted for all pernicious Anabaptiſts to be ſtab'd to the Heart with Daggers.
+<pb n="102" facs="tcp:37089:52"/>Thus they were to have inflicted upon them a plurality of Wounds, who plotted the Death of a world of Infants.</p>
+               <p n="6">6. I read how a Law was in force, to cauſe all the Anabaptiſts to be pinched to death with hot Pincers. And to ſay no more but truth, they deſerve ſtore of hot Fire, who deny Infants the Benefit of cold Water.</p>
+               <p n="7">7. I read in the Hiſtory of <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> how it was decreed, that the Anabaptiſts ſhould have their Bo<g ref="char:EOLhyphen"/>dies hung up in Iron Cages in the high Steeple in <hi>Minſter.</hi> They had wrong'd the Church, and therefore the Steeple was too good to be <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir gallowes. They had ſinned againſt. God in Heaven and his Church on Earth; and for this cauſe, it was a juſt Sentence to hang them betwixt Heaven and Earth; as being unworthy to enter the
+<pb n="103" facs="tcp:37089:52"/>one, or tread upon the other.</p>
+               <p>Having made knowne to the courteous Reader what ſevere Pu<g ref="char:EOLhyphen"/>niſhments have been inflicted upon theſe Heretiques, as Diſturbers of the Catholique Church; and as much as in them lies, the deſtroyers of all our Infants: Now give me leave to put you in minde, how for form we baptize. In the Name of the Father, and of the Son, and of the holy Ghoſt; if we uſe any other form, we offend, our Tongues muſt be tyed to theſe words: where God dictates, it is high preſumpti<g ref="char:EOLhyphen"/>on, treaſon, to alter any thing.</p>
+               <p>I ſhall not ſpend any time to give a reaſon of this form of ba<g ref="char:EOLhyphen"/>ptizing, let <hi>ſic volo ſic jubeo</hi> ſatisfie; our Chriſt commands, our Chriſt preſcribes, and I will leave all Di<g ref="char:EOLhyphen"/>rectories to follow his directions, which is this; Go ye therefore and make Diſciples; for ſo the word
+<pb n="104" facs="tcp:37089:53"/>in the Greek ſignifies, baptizing them in the name of the Father, of the Son, and of the Holy Ghoſt.</p>
+               <p>Chriſts word is our warrant to baptize. <hi>For us.</hi> Not for every one then; <hi>for us to baptize,</hi> not the anci<g ref="char:EOLhyphen"/>ent onely, but Infants alſo. <hi>A par<g ref="char:EOLhyphen"/>vulo recens nato uſque ad ſenem, nul<g ref="char:EOLhyphen"/>lus eſt prohibendus aà Baptiſmo, Aug.</hi> we have leave to baptize old and young, ſaith St. <hi>Auguſtin,</hi> go ye therefore and baptize them; as if our Saviour had ſaid, time will come, you will be all for the word, little for the Sacraments, all for preaching Sermons, have ſmall care to adminiſter my Seals of Grace. I foreſee your zealous fren<g ref="char:EOLhyphen"/>zy, thinking you have done me good ſervice, when but half your duty; I charge you therefore go teach; and go baptize: you ſee we muſt not give our ſelves ſo much to teach, that we neglect the admini<g ref="char:EOLhyphen"/>ſtration
+<pb n="105" facs="tcp:37089:53"/>of the Bleſſed Sacraments; nor thoſe whom God hath joyned together let no man put aſunder. And now good Chriſtian Readers, what just cauſe have I here, to fall foul upon many of our Engliſh Mi<g ref="char:EOLhyphen"/>niſtry, who can be content not to adminiſter the Bleſſed Sacrament of the Lords Supper to their Pari<g ref="char:EOLhyphen"/>ſhioners for ſeven years together; nay more, keep young children from Baptiſme; theſe are mungril Miniſters, half Clergie men, as ill as Papiſts, worſe then Papiſts, their Prieſts keep from the commu<g ref="char:EOLhyphen"/>nicants onely the Cup, the Wine at Communion; theſe have de<g ref="char:EOLhyphen"/>prived the people for many years together, both of the Bread, and the Wine; neither will they let their Children waſh in this Jordan <hi>Baptiſme,</hi> that God might account them clean. O <hi>England,</hi> lament and bemoan the fearful calamity
+<pb n="106" facs="tcp:37089:54"/>hath fallen upon thee, how canſt thou, but fear, and juſtly, that God will remove thy golden Candle<g ref="char:EOLhyphen"/>ſtick, I mean deprive thee of his word, ſince in many Pariſhes thou haſt caſhiered the uſe of his Bleſ<g ref="char:EOLhyphen"/>ſed Sacraments. Now the Lord grant we may know what belong<g ref="char:EOLhyphen"/>eth to the day of our viſitation; yea Lord, for thy infinite mercies, let the <hi>son and the Moon, thy word</hi> and <hi>Sacraments</hi> ſhine in our English Church all our dayes. Grant this dear Father for the merits of our Lord and Saviour Chriſt Jeſus.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:37089:54"/>
+            <head>Errata</head>
+            <p>In the Epiſte, for <hi>makes</hi> read <hi>make</hi> twice. pag. 8. read <hi>women</hi> twice. p. 13. l. 8. r. <hi>this.</hi> p. 24. l. 13. r. <hi>us.</hi> p. 34. l. 13. r. <hi>tell.</hi> p. 41. 1. 9. r. <hi>Nations.</hi> p. 54. l. 5. r. <hi>teather.</hi> p. 67. l. 22. r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="by_the_same_author">
+            <head>Theſe Books following are made by the ſame Authour.</head>
+            <p>The Lords Prayer Unclaſped.</p>
+            <p>A Plea for the Common Prayer Book.</p>
+            <p>The Paſſing Bell rung out.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:37089:55"/>
+            <p>A pair of Spectacles for the Anabaptiſts.</p>
+            <figure>
+               <figDesc>pair of spectacles</figDesc>
+            </figure>
+            <p>Do ye not yet See?</p>
+         </div>
+      </back>
+   </text>
+</TEI>
